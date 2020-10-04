@@ -23,8 +23,9 @@ date: ${new Date(jsonifiedSource.date).toISOString()}
 description: ${jsonifiedSource.topic} - ${jsonifiedSource.big_idea}
 tags: "Instructional Design", ${jsonifiedSource.big_idea}
 ---
-
-${mdSource}
+<div class="old-blog-post">
+  ${mdSource}
+</div>
             `;
 
             fs.mkdirSync(`blog/${file}`);

@@ -1,10 +1,10 @@
-
 ---
-title: UbD's Assessment Approach
+title: UbD&#39;s Assessment Approach
 date: 2019-10-08T05:00:00.000Z
-description: UbD's Assessment Approach - Targeting explicit goals
+description: UbD&#39;s Assessment Approach - Targeting explicit goals
 tags: "Instructional Design", Targeting explicit goals
 ---
-
-<p><strong>Rubrics</strong><span style=font-weight: 400;> which </span><strong>establish criteria</strong><span style=font-weight: 400;> for met goals in a course enable teachers to infer students' knowledge skill and understanding. Rubrics </span><strong>codify evidence</strong><span style=font-weight: 400;> provided by student performance and ensure that it </span><strong>aligns with course goals</strong><span style=font-weight: 400;>.</span></p>  <p> </p>  <p><span style=font-weight: 400;>Rubrics can be used to communicate to students how various assignments in a course contribute to acquiring the learning objectives of a course. </span><strong>Teachers can assign weights to each assignment</strong><span style=font-weight: 400;> implying that the criteria that those assignments are tied to are also tied to </span><strong>different levels of quality proficiency and understanding</strong><span style=font-weight: 400;> which have been described and distinguished from one another.</span></p>  <p> </p>  <p><span style=font-weight: 400;>Rubrics </span><strong>also provide a feedback loop</strong><span style=font-weight: 400;> to teachers. By being used to evaluate students' work and defining each differentiated level of understanding within them rubrics allow for </span><strong>iteration and sharpening of course objectives</strong><span style=font-weight: 400;>.</span></p>
+<div class="old-blog-post">
+  <p><strong>Rubrics</strong><span style=font-weight: 400;> which </span><strong>establish criteria</strong><span style=font-weight: 400;> for met goals in a course enable teachers to infer students' knowledge skill and understanding. Rubrics </span><strong>codify evidence</strong><span style=font-weight: 400;> provided by student performance and ensure that it </span><strong>aligns with course goals</strong><span style=font-weight: 400;>.</span></p>  <p> </p>  <p><span style=font-weight: 400;>Rubrics can be used to communicate to students how various assignments in a course contribute to acquiring the learning objectives of a course. </span><strong>Teachers can assign weights to each assignment</strong><span style=font-weight: 400;> implying that the criteria that those assignments are tied to are also tied to </span><strong>different levels of quality proficiency and understanding</strong><span style=font-weight: 400;> which have been described and distinguished from one another.</span></p>  <p> </p>  <p><span style=font-weight: 400;>Rubrics </span><strong>also provide a feedback loop</strong><span style=font-weight: 400;> to teachers. By being used to evaluate students' work and defining each differentiated level of understanding within them rubrics allow for </span><strong>iteration and sharpening of course objectives</strong><span style=font-weight: 400;>.</span></p>
+</div>
             

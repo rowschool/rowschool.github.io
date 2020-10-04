@@ -1,10 +1,10 @@
-
 ---
 title: Goal Specification in UbD and Beyond
 date: 2019-10-01T05:00:00.000Z
 description: Goal Specification in UbD and Beyond - Designing instruction to reach goals
 tags: "Instructional Design", Designing instruction to reach goals
 ---
-
-<p><strong>Content standards</strong><span style=font-weight: 400;> exist to help teachers prioritize work bridging between deep understanding of transferable Big Ideas and assessable competence at core performance-related tasks. Directly opposed to this framework is the presentation (and often rote memorization) of discrete units of unconnected knowledge seemingly unguided by overarching goals. </span></p>  <p> </p>  <p><span style=font-weight: 400;>To design instruction which helps students learn transferable strategies via Big Ideas </span><strong>lessons should be framed within the context of their field creating structure and scaffolds for students to construct knowledge upon. Facilitated learning</strong><span style=font-weight: 400;> leads students to the central most important ideas within a topic building a bridge between what students already know and engaging students in a sense-making process to understand that which they do not know about how the disparate facts in a field are connected.  </span></p>
+<div class="old-blog-post">
+  <p><strong>Content standards</strong><span style=font-weight: 400;> exist to help teachers prioritize work bridging between deep understanding of transferable Big Ideas and assessable competence at core performance-related tasks. Directly opposed to this framework is the presentation (and often rote memorization) of discrete units of unconnected knowledge seemingly unguided by overarching goals. </span></p>  <p> </p>  <p><span style=font-weight: 400;>To design instruction which helps students learn transferable strategies via Big Ideas </span><strong>lessons should be framed within the context of their field creating structure and scaffolds for students to construct knowledge upon. Facilitated learning</strong><span style=font-weight: 400;> leads students to the central most important ideas within a topic building a bridge between what students already know and engaging students in a sense-making process to understand that which they do not know about how the disparate facts in a field are connected.  </span></p>
+</div>
             

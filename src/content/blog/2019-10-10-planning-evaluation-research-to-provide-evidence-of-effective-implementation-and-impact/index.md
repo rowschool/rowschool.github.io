@@ -1,10 +1,10 @@
-
 ---
 title: Applying Assessment Research
 date: 2019-10-10T05:00:00.000Z
 description: Applying Assessment Research - Planning evaluation research to provide evidence of effective implementation and impact
 tags: "Instructional Design", Planning evaluation research to provide evidence of effective implementation and impact
 ---
-
-<p><span style=font-weight: 400;>Research can investigate and further extend in different contexts the work of </span><strong>Ericsson et al. 1993</strong><span style=font-weight: 400;> who asserted the value of deliberate practice in the pursuit of expertise. How do expert spellers mathletes and quiz bowl champions build mental models? Is there a way to design the classroom so that students not only attain mastery but seek mastery in other subjects throughout their lives? Does the </span><span style=font-weight: 400;>Power Law of Practice</span><span style=font-weight: 400;> generalize to compounded expertise as scientists have found in other domains?</span></p>
+<div class="old-blog-post">
+  <p><span style=font-weight: 400;>Research can investigate and further extend in different contexts the work of </span><strong>Ericsson et al. 1993</strong><span style=font-weight: 400;> who asserted the value of deliberate practice in the pursuit of expertise. How do expert spellers mathletes and quiz bowl champions build mental models? Is there a way to design the classroom so that students not only attain mastery but seek mastery in other subjects throughout their lives? Does the </span><span style=font-weight: 400;>Power Law of Practice</span><span style=font-weight: 400;> generalize to compounded expertise as scientists have found in other domains?</span></p>
+</div>
             

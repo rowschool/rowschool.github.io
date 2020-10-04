@@ -1,10 +1,10 @@
-
 ---
 title: Strategic Learning for EGIA
 date: 2019-08-29T05:00:00.000Z
 description: Strategic Learning for EGIA - Targeting explicit goals
 tags: "Instructional Design", Targeting explicit goals
 ---
-
-<p><span style=font-weight: 400;>The goals relevant to this piece involve </span><strong>optimizing learning</strong><span style=font-weight: 400;> using the strategies suggested - these include </span><strong>time management techniques</strong><span style=font-weight: 400;> and </span><strong>active studying</strong><span style=font-weight: 400;>.</span></p>  <p> </p>  <p><span style=font-weight: 400;>Studying is best done in a quiet place with social media turned off. This is because </span><strong>switching attention between tasks makes learning less effective</strong><span style=font-weight: 400;> and social media is a distraction more often than not.</span></p>  <p> </p>  <p><span style=font-weight: 400;>Putnam et al. advise learners to study actively using “Read Recite Review.” </span><strong>An example of Read-Recite-Review</strong><span style=font-weight: 400;> is recalling the big ideas of a chapter you just read from memory. To consolidate memories formed during studying </span><strong>get plenty of sleep</strong><span style=font-weight: 400;>.</span></p>
+<div class="old-blog-post">
+  <p><span style=font-weight: 400;>The goals relevant to this piece involve </span><strong>optimizing learning</strong><span style=font-weight: 400;> using the strategies suggested - these include </span><strong>time management techniques</strong><span style=font-weight: 400;> and </span><strong>active studying</strong><span style=font-weight: 400;>.</span></p>  <p> </p>  <p><span style=font-weight: 400;>Studying is best done in a quiet place with social media turned off. This is because </span><strong>switching attention between tasks makes learning less effective</strong><span style=font-weight: 400;> and social media is a distraction more often than not.</span></p>  <p> </p>  <p><span style=font-weight: 400;>Putnam et al. advise learners to study actively using “Read Recite Review.” </span><strong>An example of Read-Recite-Review</strong><span style=font-weight: 400;> is recalling the big ideas of a chapter you just read from memory. To consolidate memories formed during studying </span><strong>get plenty of sleep</strong><span style=font-weight: 400;>.</span></p>
+</div>
             

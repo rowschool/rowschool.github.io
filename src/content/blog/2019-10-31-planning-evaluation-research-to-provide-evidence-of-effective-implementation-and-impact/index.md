@@ -1,10 +1,10 @@
-
 ---
 title: Promoting Mastery
 date: 2019-10-31T05:00:00.000Z
 description: Promoting Mastery - Planning evaluation research to provide evidence of effective implementation and impact
 tags: "Instructional Design", Planning evaluation research to provide evidence of effective implementation and impact
 ---
-
-<p><span style=font-weight: 400;>How can learning science investigate and build upon the work of Lovett's (2001) </span><strong>studies on component skill practice</strong><span style=font-weight: 400;>? Can we uncover ways to affect overall task performance disproportionately to the amount of time invested in that task? Under </span><strong>what conditions do students benefit from whole-task practice vs. component-based practice</strong><span style=font-weight: 400;>?</span></p>
+<div class="old-blog-post">
+  <p><span style=font-weight: 400;>How can learning science investigate and build upon the work of Lovett's (2001) </span><strong>studies on component skill practice</strong><span style=font-weight: 400;>? Can we uncover ways to affect overall task performance disproportionately to the amount of time invested in that task? Under </span><strong>what conditions do students benefit from whole-task practice vs. component-based practice</strong><span style=font-weight: 400;>?</span></p>
+</div>
             
