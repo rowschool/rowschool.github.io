@@ -1,0 +1,10 @@
+
+---
+title: Applying Assessment Research
+date: 2019-10-10T05:00:00.000Z
+description: Applying Assessment Research - Targeting explicit goals
+tags: "Instructional Design", Targeting explicit goals
+---
+
+<p><span style=font-weight: 400;>To </span><strong>direct students toward mastery</strong><span style=font-weight: 400;> in a subject deliberate practice must be undertaken and </span><strong>fit into a course’s objectives as a subgoal of that overarching aim</strong><span style=font-weight: 400;>. Opportunities for cultivating states of </span><strong>deep concentration</strong><span style=font-weight: 400;> and providing students with </span><strong>deep feedback</strong><span style=font-weight: 400;> regarding their performance can be introduced via something as simple as </span><strong>homework</strong><span style=font-weight: 400;>.</span></p>
+            

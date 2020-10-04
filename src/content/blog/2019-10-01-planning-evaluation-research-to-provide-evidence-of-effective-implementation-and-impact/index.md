@@ -1,0 +1,10 @@
+
+---
+title: Goal Specification in UbD and Beyond
+date: 2019-10-01T05:00:00.000Z
+description: Goal Specification in UbD and Beyond - Planning evaluation research to provide evidence of effective implementation and impact
+tags: "Instructional Design", Planning evaluation research to provide evidence of effective implementation and impact
+---
+
+<p><span style=font-weight: 400;>Research can investigate and extend </span><strong>Ebbinghaus' (1885) study of memory for nonsense syllables</strong><span style=font-weight: 400;> like those studies conducted by medical educators on anatomy students. What is the forgetting curve? Can students be primed to study topics subjects or facts at specific intervals to retain knowledge and can commercial applications like the app </span><strong>SuperMemo</strong><span style=font-weight: 400;> be brought into the educational technology space to </span><strong>bolster students' memories</strong><span style=font-weight: 400;> successfully? </span><strong>Evidence shows (Shulman 1999) that courses can be changed to do so.</strong></p>
+            
