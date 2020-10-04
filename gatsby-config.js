@@ -6,5 +6,14 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [],
+  pathPrefix: "rowschool.github.io",
+  plugins: [
+    'gatsby-plugin-sass',
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        icon: 'src/images/favicon.png'
+      }
+    }
+  ],
 }
