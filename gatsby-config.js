@@ -6,7 +6,6 @@
 
 module.exports = {
   /* Your site config here */
-  pathPrefix: "rowschool.github.io",
   plugins: [
     'gatsby-plugin-sass',
     {
