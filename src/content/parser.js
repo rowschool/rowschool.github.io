@@ -62,3 +62,6 @@ fs.readdir(directory, callback);
 //     "big_idea": "Designing instruction to reach goals",
 //     "slug": "2019-10-03-designing-instruction-to-reach-goals"
 // }
+
+// https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog
+// https://dev.to/gabcimato/how-to-add-tags-to-your-gatsby-blog-part-1-34fk
