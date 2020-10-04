@@ -1,0 +1,1 @@
+<p><span style=font-weight: 400;>Instructors can </span><strong>administer diagnostic assessments</strong><span style=font-weight: 400;> before instruction is delivered identifying the level of challenge that is appropriate to students before creating assignments.</span></p>

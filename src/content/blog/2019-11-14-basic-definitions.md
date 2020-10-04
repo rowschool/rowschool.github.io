@@ -1,0 +1,1 @@
+<p>How does the Children's Museum work with schools and other informal education programs? How often do they revise and/or expand exhibits? </p>
