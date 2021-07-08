@@ -1,0 +1,10 @@
+---
+title: Applying Assessment Research
+date: 2019-10-10T05:00:00.000Z
+description: Applying Assessment Research - Basic definitions
+tags: "Instructional Design", Basic definitions
+---
+<div class="old-blog-post">
+  <p><span style=font-weight: 400;>“</span><span style=font-weight: 400;>Deliberate practice</span><span style=font-weight: 400;> is characterized by a high degree of focused effort to develop specific skills and concepts beyond one’s current abilities [improving] learning and performance through two cognitive mechanisms: </span><span style=font-weight: 400;>chunking</span><span style=font-weight: 400;> and </span><span style=font-weight: 400;>knowledge reorganization</span><span style=font-weight: 400;>.</span></p>  <p> </p>  <p><span style=font-weight: 400;>Deliberate practice </span><strong>isolates specific and often difficult tasks from the flow of the overall activity</strong><span style=font-weight: 400;> [allowing] for the time and mental effort necessary to support chunking and knowledge reorganization.”</span></p>
+</div>
+            

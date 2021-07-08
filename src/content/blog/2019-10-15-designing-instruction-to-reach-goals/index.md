@@ -1,0 +1,10 @@
+---
+title: UbD as an Iterative Process
+date: 2019-10-15T05:00:00.000Z
+description: UbD as an Iterative Process - Designing instruction to reach goals
+tags: "Instructional Design", Designing instruction to reach goals
+---
+<div class="old-blog-post">
+  <p><span style=font-weight: 400;>Instruction much like real world tasks is to be approached and built after a series of compromises which determine the right balance of elements in the instructional design. After an initial version instructors can see how their design works </span><strong>iterate and get feedback</strong><span style=font-weight: 400;> against desired results and content/design standards.</span></p>  <p> </p>  <p><span style=font-weight: 400;>Good instruction consists of activities exercises and presentations aligned with overarching important questions. Those questions which capture student interest are most likely to be Big Ideas - the sometimes paradoxical and often counterintuitive </span><strong>Truths of the discipline</strong><span style=font-weight: 400;>. Capturing student interest can lead to meaning- and sense-making as students themselves iterate on their own knowledge throughout the course via depth and breadth by uncovering and constructing it themselves.</span></p>
+</div>
+            

@@ -1,0 +1,10 @@
+---
+title: Applying Instruction Research
+date: 2019-11-07T06:00:00.000Z
+description: Applying Instruction Research - Planning evaluation research to provide evidence of effective implementation and impact
+tags: "Instructional Design", Planning evaluation research to provide evidence of effective implementation and impact
+---
+<div class="old-blog-post">
+  <p><strong>Misperceptions</strong><span style=font-weight: 400;> regarding how students engage with active learning must be </span><strong>understood and addressed</strong><span style=font-weight: 400;> in order for research-based active instructional strategies to be more effective and to become widespread.</span></p>  <p> </p>  <p><span style=font-weight: 400;>Research can be conducted on schools </span><strong>outside the Ivy League</strong><span style=font-weight: 400;> as well since instructional strategies adopted and accepted at state and local colleges will differ where educational undergraduate and graduate programs are not staffed by experts in the field.</span></p>
+</div>
+            
