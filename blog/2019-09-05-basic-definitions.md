@@ -1,0 +1,1 @@
+<p>This report had a lot of information and used common language. Its authors assumed basic knowledge of the education discipline (using terms like scaffolding problem-based learning etc.) but no new terms were introduced.</p>

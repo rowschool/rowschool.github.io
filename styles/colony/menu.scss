@@ -1,0 +1,122 @@
+@media (max-width: $screen-desktop) {
+    .menu-container {
+        padding: 20px 20px !important;
+    }
+
+    .menu-logo {
+        font-size: 28px !important;
+    }
+
+    .menu-item-list {
+
+    }
+
+    .menu-item-list-item {
+        font-size: 16px !important;
+        padding: 5px 10px 0 10px !important;
+    }
+}
+
+.menu-container {
+    max-height: 100px;
+    background-color: $backgroundColor;
+    padding: 0px 100px;
+    border-bottom: 2px solid $brandColorPrimary;
+    box-shadow: 2px 2px $boxShadowColor;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.menu-logo {
+    font-size: 64px;
+    font-weight: 200;
+    max-width: 50%;
+    color: $textColor;
+
+    a {
+        text-decoration: none;
+    }
+}
+
+.menu-item-list {
+    list-style: none;
+    height: max-content;
+}
+
+.menu-item-list-item {
+    padding: 10px 20px 0 20px;
+    font-size: 24px;
+    font-weight: 200;
+    color: $textColor;
+    display: inline;
+    position: relative;
+}
+
+.menu-item-list-item .menu-item-list-item-link {
+    color: $textColor;
+    text-decoration: none;
+
+    &:visited {
+        color: $textColor;
+    }
+
+    &:hover {
+        color: $hoverTileForegroundColor;
+    }
+}
+
+.menu-item-list-dropdown-list-item .menu-item-list-item-link {
+    color: $brandColorSecondary;
+    text-decoration: none;
+
+
+    &:visited {
+        color: $brandColorSecondary;
+    }
+
+    &:hover {
+        background-color: $brandColorSecondary;
+        color: $brandColorPrimary;
+    }
+}
+
+.menu-item-list-dropdown {
+    @extend .menu-item-list-item;
+}
+
+.menu-item-list-dropdown-list {
+    display: none;
+    position: absolute;
+    list-style: none;
+    top: 39px;
+    left: 0;
+    font-size: 24px;
+    font-weight: 200;
+    width: max-content;
+    color: $brandColorSecondary;
+    background-color: $brandColorPrimary;
+    border: 1px solid $brandColorPrimary;
+
+}
+
+.menu-item-list-dropdown:hover .menu-item-list-dropdown-list {
+    display: inherit;
+}
+
+.menu-item-list-dropdown-list-item {
+    padding: 10px 20px 5px 20px;
+    max-width: 100%;
+    float: none;
+    display: list-item;
+    position: relative;
+
+    &:hover {
+        background-color: $brandColorSecondary;
+        color: $brandColorPrimary;
+
+        .menu-item-list-item-link {
+            color: $brandColorPrimary;
+        }
+    }
+}
