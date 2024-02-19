@@ -1,0 +1,190 @@
+$red: #851d18;
+$loveContrastColor: #cff;
+
+@media (max-width: $screen-phone) {
+    .love-container {
+        margin-top: -25px !important;
+        margin-bottom: -25px !important;
+
+        #pictures {
+            display: block !important;
+
+            img {
+                margin-bottom: 25px !important;
+                max-width: 75%;
+            }
+        }
+
+        #potentialDealbreakers .potential-dealbreakers {
+            display: block !important;
+
+            div {
+                margin-right: 0 !important;
+            }
+        }
+    }
+
+    h1, h2 {
+        font-weight: 600;
+    }
+
+    h1, h1 span,
+    h2, h2 span {
+        font-size: 1.25em;
+    }
+}
+
+.mobile-nav.love-menu,
+.nav.love-menu {
+    a li,
+    .mobile-nav-item a {
+        padding: 5px 15px;
+        text-align: center;
+    }
+}
+
+.love-container {
+    font-family: serif;
+    margin: -50px 0;
+    background-color: $red;
+    color: $loveContrastColor;
+    padding: 25px;
+    line-height: 1.5;
+
+    a, a:-webkit-any-link {
+        color: $loveContrastColor;
+        text-decoration: underline;
+        background-color: transparent;
+
+        &:hover {
+            color: $red;
+            background-color: $loveContrastColor;
+        }
+    }
+
+    h1, h2, h3 {
+        font-weight: 600;
+        font-family: sans-serif;
+    }
+
+    h1 span,
+    h2 span,
+    h3 span {
+        font-weight: 400;
+        font-family: serif;
+    }
+
+    #name {
+        span a, span a:-webkit-any-link {
+            color: $loveContrastColor;
+            text-decoration: underline;
+
+            &:hover {
+                color: $red;
+                background-color: $loveContrastColor;
+            }
+        }
+    }
+
+    #pictures {
+        text-align: center;
+
+        a:hover {
+            background-color: transparent;
+        }
+
+        img {
+            margin: 0 25px 40px 25px;
+            height: 250px;
+
+            &:hover {
+                text-decoration: none;
+            }
+        }
+    }
+
+    #desiredTraitsInAPartner,
+    #thingsINoticedAboutMyself {
+        margin-top: 25px;
+    }
+
+    .abbreviation,
+     {
+        border: 1px solid $loveContrastColor;
+        padding: 5px;
+        margin: 5px;
+        width: max-content;
+        cursor: pointer;
+        max-width: 75vw;
+
+        &:hover {
+            background-color: $loveContrastColor;
+            color: $red;
+
+            a {
+                color: $red;
+            }
+        }
+    }
+
+    [data-expanded=true] {
+        border: double;
+    }
+
+    #potentialDealbreakers {
+        margin-top: 25px;
+    }
+
+    #potentialDealbreakers .potential-dealbreakers {
+        display: flex;
+        flex-wrap: wrap;
+
+        [data-expanded=true] {
+            border: double;
+            cursor: pointer;
+            &:hover {
+                color: $red;
+                background-color: $loveContrastColor;
+            }
+
+            h2 {
+                text-decoration: underline;
+                border: none;
+            }
+        }
+
+        h2 {
+            border: 1px solid $loveContrastColor;
+            padding: 5px 15px;
+            margin: 25px auto 10px auto;
+            width: max-content;
+            cursor: pointer;
+
+            &:hover {
+                color: $red;
+                background-color: $loveContrastColor;
+            }
+        }
+
+        div {
+            flex: 1 0 20%;
+            text-align: center;
+            height: max-content;
+
+            &:hover {
+                a, a:visited, a:hover {
+                    color: $red;
+                    background-color: $loveContrastColor;
+                }
+            }
+        }
+    }
+
+    #potentialDealbreakers .potential-dealbreakers p {
+        padding: 5px;
+    }
+
+    #bestWayToContact {
+        margin-top: 50px;
+    }
+}
