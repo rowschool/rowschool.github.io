@@ -1,9 +1,28 @@
+// Colors
+$brandColorPrimary: #862222; // red
+$figureColor: $brandColorPrimary;
+$brandColorSecondary: #C5B358; // yellow
+$groundColor: $brandColorSecondary;
+$textColor: #333;
+$backgroundColor: #eee;
+$hoverTileBackgroundColor: #ddd;
+$hoverTileForegroundColor: #CA2222; // lighter red
+$boxShadowColor: #444;
+$borderColor: $brandColorPrimary;
+$white: white;
+
 // Responsiveness
 $screen-phone: 480px;
 $screen-tablet: 768px;
 $screen-desktop: 992px;
 $screen-desktop-large: 1200px;
 
-$figureColor: #777;
-$groundColor: #eee;
-$white: white;
+// // Responsiveness
+// $screen-phone: 480px;
+// $screen-tablet: 768px;
+// $screen-desktop: 992px;
+// $screen-desktop-large: 1200px;
+
+// $figureColor: #777;
+// $groundColor: #eee;
+// $white: white;
