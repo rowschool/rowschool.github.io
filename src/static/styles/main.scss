@@ -129,6 +129,11 @@ a {
 
 .course-list-item-icon {
     font-size: 48px;
+
+    // &:before {
+        // content: "\f927";
+        content: '\F67E';
+    // }
 }
 
 .course-list-item-inner-text {

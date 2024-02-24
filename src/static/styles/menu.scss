@@ -21,50 +21,6 @@
 
 }
 
-#fullname {
-    font-size: 48px;
-
-    &:hover {
-        #firstname:after {
-            -webkit-animation: changeFirstName 2s ease forwards; /* Safari 4.0 - 8.0 */
-            animation: changeFirstName 2s ease forwards;
-        }
-
-        #lastname:after {
-            -webkit-animation: changeLastName 2s ease forwards; /* Safari 4.0 - 8.0 */
-            animation: changeLastName 2s ease forwards;
-        }
-    }
-}
-
-#firstname:after {
-    content: "Neil ";
-}
-
-@keyframes changeFirstName {
-    0% { content: "LNei "; }
-    25% { content: "LiNe "; }
-    50% { content: "LieN "; }
-    75% { content: "Lien "; }
-    100% { content: "Lion "; }
-}
-
-#lastname:after {
-    content: "Thawani";
-}
-
-@keyframes changeLastName {
-    0% { content: "IThawan"; }
-    12% { content: "InThawa"; }
-    25% { content: "InaThaw"; }
-    37% { content: "InawTha"; }
-    50% { content: "InawaTh"; }
-    62% { content: "InawahT"; }
-    75% { content: "Inawhat"; }
-    87% { content: "in a what"; }
-    100% { content: "in a what?"; }
-}
-
 .nav-pills { // ul
     display: flex;
     flex-direction: row;
