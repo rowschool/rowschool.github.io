@@ -1,3 +1,3 @@
-<p><span style=font-weight: 400;>There weren’t many discussions on the ECS website about how students showcase evidence of their knowledge.</span></p>
+<span style=font-weight: 400;>There weren’t many discussions on the ECS website about how students showcase evidence of their knowledge.</span>
 
-<p><span style=font-weight: 400;>However assessments likely take on a formative nature - in the moment within the environment with teachers asking for input and feedback during a unit. </span></p>
+<span style=font-weight: 400;>However assessments likely take on a formative nature - in the moment within the environment with teachers asking for input and feedback during a unit. </span>

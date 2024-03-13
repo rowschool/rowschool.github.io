@@ -1,1 +1,1 @@
-<p><span style=font-weight: 400;>How are the most effective </span>**textbooks**<span style=font-weight: 400;> structured? What activities and questions do they pose to students to further understanding? What illustrations and problems facilitate and scaffold student learning best?</span></p>
+<span style=font-weight: 400;>How are the most effective </span>**textbooks**<span style=font-weight: 400;> structured? What activities and questions do they pose to students to further understanding? What illustrations and problems facilitate and scaffold student learning best?</span>
