@@ -1,1 +1,1 @@
-<span style=font-weight: 400;>Instructors can </span>**administer diagnostic assessments**<span style=font-weight: 400;> before instruction is delivered identifying the level of challenge that is appropriate to students before creating assignments.</span>
+Instructors can **administer diagnostic assessments** before instruction is delivered identifying the level of challenge that is appropriate to students before creating assignments.

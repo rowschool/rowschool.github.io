@@ -1,1 +1,1 @@
-**FOL**<span style=font-weight: 400;>: feeling of learning</span>
+**FOL**: feeling of learning

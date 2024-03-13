@@ -1,3 +1,3 @@
-**Misperceptions**<span style=font-weight: 400;> regarding how students engage with active learning must be </span>**understood and addressed**<span style=font-weight: 400;> in order for research-based active instructional strategies to be more effective and to become widespread.</span>
+**Misperceptions** regarding how students engage with active learning must be **understood and addressed** in order for research-based active instructional strategies to be more effective and to become widespread.
 
-<span style=font-weight: 400;>Research can be conducted on schools </span>**outside the Ivy League**<span style=font-weight: 400;> as well since instructional strategies adopted and accepted at state and local colleges will differ where educational undergraduate and graduate programs are not staffed by experts in the field.</span>
+Research can be conducted on schools **outside the Ivy League** as well since instructional strategies adopted and accepted at state and local colleges will differ where educational undergraduate and graduate programs are not staffed by experts in the field.
