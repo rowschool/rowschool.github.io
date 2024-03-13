@@ -22,6 +22,9 @@ try {
     process.exit(0);
 }
 
+// Developer's note:
+// If you are dramatically changing the blog implementation via *.md and *.json files and refreshing the page,
+// remember to delete the *.hbs files because they receive priority build over the *.md files.
 if (isDirectory) {
     console.log(`Parsing files in directory "${from}" to "${toFolder}"`);
 

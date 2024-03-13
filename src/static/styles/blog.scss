@@ -18,6 +18,13 @@
 .blog-post-item-link {
     background: none;
     font-size: 22px;
+    margin-bottom: 8px;
+    display: block;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
 }
 
 .blog-post-item-created-at {
