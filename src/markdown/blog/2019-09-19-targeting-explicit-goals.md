@@ -1,6 +1,6 @@
-<p><strong>How do we ensure students remain motivated and feel supported in class?</strong></p>
+<p>**How do we ensure students remain motivated and feel supported in class?**</p>
 
-<p><span style=font-weight: 400;>Feeling supported makes students more likely to feel motivated and increase their expectations for success. If the goals of the course match what students value then the </span><strong>alignment of expectations and values creates the highest student motivation.</strong></p>
+<p><span style=font-weight: 400;>Feeling supported makes students more likely to feel motivated and increase their expectations for success. If the goals of the course match what students value then the </span>**alignment of expectations and values creates the highest student motivation.**</p>
 
 <p><span style=font-weight: 400;>However students must be pointed in an appropriate direction as they pursue the goals of the course. The ABC's of How We Learn chapter Y (Yes I can) warns that sometimes self-efficacy isn't always a good thing invoking Godwin's Law in its reference to Hitler.</span></p>
 

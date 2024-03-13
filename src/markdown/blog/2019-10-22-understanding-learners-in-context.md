@@ -1,7 +1,7 @@
-<p><span style=font-weight: 400;>ECS works to grow citizens along </span><strong>four pillars - Catalyst Character Collaboration and Commitment.</strong></p>
+<p><span style=font-weight: 400;>ECS works to grow citizens along </span>**four pillars - Catalyst Character Collaboration and Commitment.**</p>
 
-<p><span style=font-weight: 400;>They work to build an equitable educational environment by accommodating for all students and tailor instruction to meet students' needs with a 10-12:1 student:teacher ratio. They focus on </span><strong>the Whole Child</strong><span style=font-weight: 400;>:</span></p>  <p><strong>- health</strong></p>  <p><strong>- safety</strong></p>  <p><strong>- engagement</strong></p>  <p><strong>- support</strong></p>  <p><strong>- challenge</strong></p>
+<p><span style=font-weight: 400;>They work to build an equitable educational environment by accommodating for all students and tailor instruction to meet students' needs with a 10-12:1 student:teacher ratio. They focus on </span>**the Whole Child**<span style=font-weight: 400;>:</span></p>  <p>**- health**</p>  <p>**- safety**</p>  <p>**- engagement**</p>  <p>**- support**</p>  <p>**- challenge**</p>
 
-<p><span style=font-weight: 400;>while </span><strong>modeling behavior</strong><span style=font-weight: 400;> that's expected from students. </span></p>
+<p><span style=font-weight: 400;>while </span>**modeling behavior**<span style=font-weight: 400;> that's expected from students. </span></p>
 
-<p><span style=font-weight: 400;>The curriculum at ECS is based on an ecoliteracy program facilitating the growth of students who strive to </span><strong>embody the qualities indicated by the four pillars</strong><span style=font-weight: 400;>. They do this by studying places and spaces in Pittsburgh and </span><strong>creating meaning by connecting course content to their community</strong><span style=font-weight: 400;>. </span></p>
+<p><span style=font-weight: 400;>The curriculum at ECS is based on an ecoliteracy program facilitating the growth of students who strive to </span>**embody the qualities indicated by the four pillars**<span style=font-weight: 400;>. They do this by studying places and spaces in Pittsburgh and </span>**creating meaning by connecting course content to their community**<span style=font-weight: 400;>. </span></p>
