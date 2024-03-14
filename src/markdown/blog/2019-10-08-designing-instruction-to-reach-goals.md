@@ -1,0 +1,1 @@
+Instructors are encouraged in class to **show students strong weak and mid-range assignments which were submitted in prior classes** according to devised rubric standards. These anchors which provide evidence of different levels of understanding can help students compare and find the boundaries which exist in pursuit of **course mastery**.

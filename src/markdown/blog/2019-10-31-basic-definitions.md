@@ -1,0 +1,32 @@
+**Mastery** refers to the attainment of a high degree of competence within a particular area. That area can be narrowly or broadly defined ranging from discrete skills (for example using a Bunsen burner) or content knowledge (for example knowing the names of all U.S. presidents) to extensive knowledge and skills within a complex disciplinary domain (for example French theater thermodynamics or game theory).
+
+For students to achieve mastery within a domain whether narrowly or broadly conceived they need to develop a set of key component skills practice them to the point where they can be combined fluently and used with a fair degree of automaticity and know when and where to apply them appropriately.
+
+Elements of Mastery
+
+<ol>
+	<li>
+		KNOW WHEN TO APPLY Skills
+	</li>
+	<li>
+		PRACTICE Integrating Skills
+	</li>
+	<li>
+		ACQUIRE Component Skills
+	</li>
+</ol>
+
+Stages in the Development of Mastery
+
+UNCONSCIOUS Competence
+CONSCIOUS Competence
+CONSCIOUS Incompetence
+UNCONSCIOUS Incompetence
+
+When expert instructors are blind to the learning needs of novice students it is known as **expert blind spot** (Nickerson 1999; Hinds 1999; Nathan &amp; Koedinger 2000; Nathan &amp; Petrosino 2003).
+
+Another method to emerge in the research is to support some aspects of a complex task while students perform the entire task (Sweller &amp; Cooper 1985). This result called the** worked-example effect** is one example of a process called **scaffolding** whereby instructors temporarily relieve some of the cognitive load so that students can focus on particular dimensions of learning.
+
+To illustrate this distinction between extraneous and germane load consider engineering students who are having difficulty solving practice problems.
+
+The application of skills (or knowledge strategies approaches or habits) learned in one context to a novel context is referred to as **transfer**. Transfer is said to be near if the learning context and transfer context are similar and far when the contexts are dissimilar.

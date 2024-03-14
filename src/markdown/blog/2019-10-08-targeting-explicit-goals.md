@@ -1,0 +1,5 @@
+**Rubrics** which **establish criteria** for met goals in a course enable teachers to infer students' knowledge skill and understanding. Rubrics **codify evidence** provided by student performance and ensure that it **aligns with course goals**.
+
+Rubrics can be used to communicate to students how various assignments in a course contribute to acquiring the learning objectives of a course. **Teachers can assign weights to each assignment** implying that the criteria that those assignments are tied to are also tied to **different levels of quality proficiency and understanding** which have been described and distinguished from one another.
+
+Rubrics **also provide a feedback loop** to teachers. By being used to evaluate students' work and defining each differentiated level of understanding within them rubrics allow for **iteration and sharpening of course objectives**.

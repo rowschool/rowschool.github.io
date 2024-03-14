@@ -1,1 +1,0 @@
-<p><strong>FOL</strong><span style=font-weight: 400;>: feeling of learning</span></p>

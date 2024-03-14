@@ -1,0 +1,1 @@
+Many of the points addressed in these chapters can be delved into in an educational technology ethics class and students can inquire deeply about the impact of technology that does or does not accommodate for or take into account a diverse array of users.

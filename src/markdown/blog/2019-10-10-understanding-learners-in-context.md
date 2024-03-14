@@ -1,0 +1,3 @@
+Mediocre chess players improve their game by playing more games. However Grand Master chess players become masters by participating in focused studying. To achieve mastery players and athletes participate in Deliberate Practice - carving out time for **performance study and effortful engagement** in their task of choice.
+
+Beginners who practice and subsequently plateau in their abilities must take the time to willfully study their craft or skills they wish to master. However they must be mindful that Deliberate Practice is difficult effortful and requires stepping away from the parts of an activity that make it "fun" and perhaps even emotionally enjoyable in order to fine-tune their performance chipping away at the unnecessary and building oneself back up.

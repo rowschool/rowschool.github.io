@@ -1,0 +1,1 @@
+Applying problem-based learning and the case method to pique students' interest **immerses students in the process of understanding**. By attempting to learn students make sense of teaching and construct their own knowledge. This means that **understanding is not given but earned**.

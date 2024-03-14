@@ -1,0 +1,3 @@
+**Instructors must be aware of their blind spots** regarding their performance in tasks they have been doing for a long time. Schwartz et al. mention the expert blind spot where professionals don’t know how they do things (with conscious awareness) because their prior practice resulted in chunking which automated many of the subprocedures involved in the task. This frees up working memory and enables the expert to further enhance their abilities.
+
+Teachers can also encourage students to **metacognitively review their own work** considering baselines of performance comparing them to their own and deliberately correcting work to improve and further the pursuit of task mastery.

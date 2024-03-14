@@ -1,0 +1,1 @@
+How are the most effective **textbooks** structured? What activities and questions do they pose to students to further understanding? What illustrations and problems facilitate and scaffold student learning best?
