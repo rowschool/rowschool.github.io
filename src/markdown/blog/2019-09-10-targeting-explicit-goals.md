@@ -6,4 +6,10 @@ ECT initiatives such as 1:1 laptops/tablets in schools across the nation along w
 
 Those who design and develop educational technology solutions must consider ethical questions such as - who is included who is empowered and who has authority in light of ECT? Are the appropriate **technological solutions connected with the local users and cultures?** Do they** reflect culturally and intellectually diverse viewpoints** and emphasize social/cultural diversity while avoiding content promoting gender ethnic racial or religious stereotypes? The Association for Educational Communications and Technology's (AECT’s) Code of Ethics document has put forth recommendations and this in turn has forced the global IT community to accept that research and practice in the field of ECT affect a more culturally diverse body of stakeholders than ever before.
 
-<p>D.P. Subramony puts forth recommendations for improving instructional systems design (ISD) with **the aim of viewing ECT through "sociocultural and critical lenses to examine key issues within the majority of top academic departments/programs and technology integration courses at the undergraduate Master's and doctoral level."** He recommends the incorporation and examination of cultural and power variables within:</p>  <ul>  <li style=font-weight: 400;>leading academic/professional organizations</li>  <li style=font-weight: 400;>highly respected journals and books and</li>  <li style=font-weight: 400;>influential conference from presidential sessions through workshops to concurrent roundtable and poster sessions.</li>  </ul>
+D.P. Subramony puts forth recommendations for improving instructional systems design (ISD) with **the aim of viewing ECT through "sociocultural and critical lenses to examine key issues within the majority of top academic departments/programs and technology integration courses at the undergraduate Master's and doctoral level."** He recommends the incorporation and examination of cultural and power variables within:
+
+<ul>
+	<li>leading academic/professional organizations</li>
+	<li>highly respected journals and books and</li>
+	<li>influential conference from presidential sessions through workshops to concurrent roundtable and poster sessions.</li>
+</ul>

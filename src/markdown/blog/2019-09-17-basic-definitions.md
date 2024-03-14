@@ -18,4 +18,15 @@ If students successfully move through this stage they arrive at more sophisticat
 
 Chickering model — a comprehensive model that systematically examines the range of issues students are dealing with in their college years
 
-Chickering (1969) provides a model that tries to systematically account for all the developmental changes students experience through the college years. He groups them in seven dimensions which he calls vectors. They build on each other cumulatively:</p>  <ul>  <li style=font-weight: 400;>Developing competence</li>  <li style=font-weight: 400;>Managing emotions</li>  <li style=font-weight: 400;>Developing autonomy</li>  <li style=font-weight: 400;>Establishing identity</li>  <li style=font-weight: 400;>Freeing interpersonal relationships</li>  <li style=font-weight: 400;>Developing purpose</li>  <li style=font-weight: 400;>Developing integrity</li>  </ul>  <p></p>  <p>integrity - the tension between self-interest and social responsibility
+Chickering (1969) provides a model that tries to systematically account for all the developmental changes students experience through the college years. He groups them in seven dimensions which he calls vectors. They build on each other cumulatively:
+
+<ul>
+	<li>Developing competence</li> 
+	<li>Managing emotions</li>  <li>Developing autonomy</li> 
+	<li>Establishing identity</li> 
+	<li>Freeing interpersonal relationships</li>  
+	<li>Developing purpose</li> 
+	<li>Developing integrity</li>
+</ul>
+
+integrity - the tension between self-interest and social responsibility
