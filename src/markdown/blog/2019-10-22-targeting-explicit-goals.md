@@ -4,7 +4,16 @@ The prime directive of ECS' faculty and staff are to ensure all students succeed
 
 For example ECS features a Middle School Thinking Lab which employs Visible Thinking in order to build thinking dispositions. The goals of the Thinking Lab are for students to bridge art and science by :
 
-<ol>  <li> using verbal visual and critical thinking skills to identify understand and express problems that cross disciplines</li>  <li> making connections between science art technology and design and </li>  <li> incubating and activating within the lab an innovative learning community and inspiring active collaboration between ECS faculty and partner organizations.</li>  </ol>
+<ol>
+	<li>
+		using verbal visual and critical thinking skills to identify understand and express problems that cross disciplines
+	</li>
+	<li>
+		making connections between science art technology and design and
+	</li>
+	<li>incubating and activating within the lab an innovative learning community and inspiring active collaboration between ECS faculty and partner organizations.
+	</li>
+</ol>
 
 Through focus groups surveys and classroom visits ECS has continued to expand to serve grades K-12 across three campuses by 2020. ECS identified **four themes during its most recent growth phase - Programming Looping Schedule and Spaces** - and created a framework for planning logistics and guiding decisions at the building level.
 

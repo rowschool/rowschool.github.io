@@ -1,7 +1,18 @@
 The foundation for EGIA’s course name is the Goals Program Assessment Approach.
 
-**Goals:**</p>  <p>- Detailed task analysis</p>  <p>- Considering developmental level</p>  <p>- Considering knowledge base</p>  <p>- Considering available time
+**Goals:**
 
-**Program:**</p>  <p>- Explicit focus on target</p>  <p>- Consistent with cognitive principles
+- Detailed task analysis
+- Considering developmental level
+- Considering knowledge base
+- Considering available time
 
-**Assessment:**</p>  <p>- Cognitive assessments of process</p>  <p>- Covering the full target
+**Program:**
+
+- Explicit focus on target
+- Consistent with cognitive principles
+
+**Assessment:**
+
+- Cognitive assessments of process
+- Covering the full target

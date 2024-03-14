@@ -1,6 +1,9 @@
-The Children's Museum's Maker Educator Boot Camp MAKESHOP was developed through years of experience and research. Participants :
+The Children's Museum's Maker Educator Boot Camp MAKESHOP was developed through years of experience and research. Participants:
 
-- work in individual and group settings for both hands-on activities and discussions</p>  <p>- attend four process-focused workshops designed to give both practical and theoretical insight into different forms of making</p>  <p>- use both MAKESHOP’s Principles of Practice and other research tools to delve deeply into the learning that happens through making</p>  <p>- use visioning tools designed by the Museum's Learning and Research department to inform institutional direction as it relates to making
+- work in individual and group settings for both hands-on activities and discussions
+- attend four process-focused workshops designed to give both practical and theoretical insight into different forms of making
+- use both MAKESHOP’s Principles of Practice and other research tools to delve deeply into the learning that happens through making
+- use visioning tools designed by the Museum's Learning and Research department to inform institutional direction as it relates to making
 
 Teachers librarians and administrators are encouraged to attend MAKESHOP to guide implementations outside of the Museum. The Children's Museum aims to create and sustain effective makerspaces and related programs for learning through its Making+Learning program a cooperative agreement between the Children’s Museum of Pittsburgh and the Institute of Museum and Library Services. The project is supported by thought partners from the Exploratorium the Chicago Public Library North Carolina State University Libraries and the Maker Education Initiative.
 

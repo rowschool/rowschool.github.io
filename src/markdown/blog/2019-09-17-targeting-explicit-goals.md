@@ -8,4 +8,6 @@ Teachers can **create a list of concepts and skills they expect students to have
 
 Teachers can also use **brainstorming** to uncover beliefs associations and assumptions students have assign a concept map activity (How Learning Works Appendix B) and give students sufficient time so they can have adequate time to revise and rebuild their mental models.
 
-Although teachers should consider students holistically as intellectual social and emotional beings **we are not responsible for guiding them through all aspects of their social and emotional lives** (such as giving financial planning or dating advice).</p>  <p>Teachers should be **collecting data** about students to help inform teaching practice and learning about students is a way to build on our prior knowledge by learning more about the classroom context and using this information to adjust our instructional goals as necessary.
+Although teachers should consider students holistically as intellectual social and emotional beings **we are not responsible for guiding them through all aspects of their social and emotional lives** (such as giving financial planning or dating advice).
+
+Teachers should be **collecting data** about students to help inform teaching practice and learning about students is a way to build on our prior knowledge by learning more about the classroom context and using this information to adjust our instructional goals as necessary.

@@ -1,9 +1,18 @@
-<p>Educational research and teaching practice need to be bridged in order to:</p>  <ol>  <li> develop a robust science of learning</li>  <li> improve the effectiveness of educational innovations that are compatible with schools organizations and participants involved.</li>  </ol>
+Educational research and teaching practice need to be bridged in order to:
 
-To create system-wide change the prior knowledge of educational leaders and students needs to be elucidated (57). This is because new interventions which do not match leaders' prior knowledge are less likely to be implemented or they tend to be changed to be more familiar to school leaders' prior experiences (58) and that the efficacy of novel educational interventions may change - potentially for the worse. 
+<ol>
+	<li>
+		develop a robust science of learning
+	</li>
+	<li>
+		improve the effectiveness of educational innovations that are compatible with schools organizations and participants involved.
+	</li>
+</ol>
 
-The authors note that two efforts are required to establish a cumulative scientific knowledge base about the science of learning: scaling up - going from elemental findings to more complex authentic settings - and scaling down - that is going from more complex ecologically valid levels to those elemental levels that contribute to it..
+To create system-wide change the prior knowledge of educational leaders and students needs to be elucidated. This is because new interventions which do not match leaders' prior knowledge are less likely to be implemented or they tend to be changed to be more familiar to school leaders' prior experiences and that the efficacy of novel educational interventions may change - potentially for the worse.
 
-To scale up from research to real-world instructional design an elemental approach to the study of learning is required. Scaling up requires interactions among teachers providers (such as researchers) education leaders and organizations at the school district and state levels. It is subject to local contingencies of the settings within which the innovations are to be situated (59). Supporting teachers to implement and sustain intended instructional practices requires system-wide change (62) including working within the specific policies governing regional standards assessments norms for accountability and within the supporting infrastructure which includes factors such as teacher incentives and resource allocation. Successful innovations benefit from a strong research base with enhanced knowledge about student thinking (63).
+The authors note that two efforts are required to establish a cumulative scientific knowledge base about the science of learning: scaling up - going from elemental findings to more complex authentic settings - and scaling down - that is going from more complex ecologically valid levels to those elemental levels that contribute to it.
+
+To scale up from research to real-world instructional design an elemental approach to the study of learning is required. Scaling up requires interactions among teachers providers (such as researchers) education leaders and organizations at the school district and state levels. It is subject to local contingencies of the settings within which the innovations are to be situated. Supporting teachers to implement and sustain intended instructional practices requires system-wide change including working within the specific policies governing regional standards assessments norms for accountability and within the supporting infrastructure which includes factors such as teacher incentives and resource allocation. Successful innovations benefit from a strong research base with enhanced knowledge about student thinking.
 
 It is also important to scale down from the policy curriculum and instructional levels of design and analysis to more elemental research that can advance understanding of the intervention's impact while also contextualizing the more basic research. By applying a time scale framework to generate targeted research questions learning and practice are studied in the settings of the organizational system (such as districts and schools) places of professional practice (such as a field shop floor or office) learning environments (such as a classroom workplace or multi-user gaming environment) and the individual (addressing issues such as identity goals and pre-existing knowledge structures).

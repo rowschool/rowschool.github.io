@@ -2,7 +2,7 @@ Students move through a series of fairly well-defined phases defined by the **Pe
 
 **Classroom climate** consists of **stereotypes tone faculty-student and student-student interactions and content**. Content can affect learning through cognitive motivational and socio-emotional mechanisms. Students ascribe meaning to course material via these mechanisms which are informed by their preconceived facts concepts models perceptions beliefs values and attitudes some of which are useful for the course and others which are not. However this knowledge determines how students filter and interpret information.
 
-**Teachers can understand students’ prior knowledge** by asking them to write brief essays on one of two topics: The Best Class I Ever Had or How I Learn Best and How I Know That. Teachers can use concept inventories (available on the Internet or in How Learning Works Appendix B) to determine gaps in students' knowledge and address misconceptions. 
+**Teachers can understand students’ prior knowledge** by asking them to write brief essays on one of two topics: The Best Class I Ever Had or How I Learn Best and How I Know That. Teachers can use concept inventories (available on the Internet or in How Learning Works Appendix B) to determine gaps in students' knowledge and address misconceptions.
 
 Teachers ought also to be mindful that growth like the sculpting of a Renaissance marble statue requires chipping away at the molds of a student's mind - creating a sense of loss uncertainty and inevitable resistance. Growth requires pain for the student is both the sculpture and the sculptor of their learning.
 

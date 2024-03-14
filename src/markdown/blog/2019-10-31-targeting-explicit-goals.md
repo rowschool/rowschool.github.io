@@ -2,4 +2,21 @@ Teamwork requires the component skills of delegation coordinating efforts resolv
 
 In How Learning Works Ambrose et al. (2010) assert that the central goal of educational is far transfer; that is instructors want students to be able to apply what they learn beyond the classroom. However most research has found that there are a variety of obstacles to students achieving transfer in novel contexts citing examples from statistics and art. The reason that students may fail to achieve transfer may be because they don't have a robust understanding of underlying principles - they don't understand the why behind applications of knowledge.
 
-<p>To increase the likelihood of transfer Ambrose et al. recommends that instructors:</p>  <ol>  <li> employ teaching assistants who may not have as much unconscious competence in the tasks being taught </li>  <li> manage students' cognitive load by directing their attention to performance tasks which allow them to apply their knowledge repeatedly and in varying contexts </li>  <li> encourage students to explicitly discuss contexts within which knowledge may be applied by defining problem features via case studies</li>  <li> asking students to relate instruction to prior knowledge to facilitate the creation of connections which enable transfer with the aim that students will metacognitively begin to make these connections on their own</li>  <li> provide targeted feedback for students to refer to an iterate upon making their instructional goals explicit and communicating to students expectations that their performance and learning are refinable over time.</li>  </ol>
+To increase the likelihood of transfer Ambrose et al. recommends that instructors:
+
+<ol>
+	<li>
+		employ teaching assistants who may not have as much unconscious competence in the tasks being taught
+	</li>
+	<li>
+		manage students' cognitive load by directing their attention to performance tasks which allow them to apply their knowledge repeatedly and in varying contexts
+	</li>
+	<li> encourage students to explicitly discuss contexts within which knowledge may be applied by defining problem features via case studies
+	</li>
+	<li>
+		asking students to relate instruction to prior knowledge to facilitate the creation of connections which enable transfer with the aim that students will metacognitively begin to make these connections on their own
+	</li>
+	<li>
+		provide targeted feedback for students to refer to an iterate upon making their instructional goals explicit and communicating to students expectations that their performance and learning are refinable over time.
+	</li>
+</ol>

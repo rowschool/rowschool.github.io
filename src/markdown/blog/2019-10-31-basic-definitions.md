@@ -4,6 +4,29 @@ For students to achieve mastery within a domain whether narrowly or broadly conc
 
 Elements of Mastery
 
-<ol>  <li> KNOW WHEN TO APPLY Skills</li>  <li> PRACTICE Integrating Skills</li>  <li> ACQUIRE Component Skills</li>  </ol>
+<ol>
+	<li>
+		KNOW WHEN TO APPLY Skills
+	</li>
+	<li>
+		PRACTICE Integrating Skills
+	</li>
+	<li>
+		ACQUIRE Component Skills
+	</li>
+</ol>
 
-Stages in the Development of Mastery</p>  <p>UNCONSCIOUS Competence</p>  <p>CONSCIOUS Competence</p>  <p>CONSCIOUS Incompetence</p>  <p>UNCONSCIOUS Incompetence</p>  <p>  </p>  <p>When expert instructors are blind to the learning needs of novice students it is known as **expert blind spot** (Nickerson 1999; Hinds 1999; Nathan &amp; Koedinger 2000; Nathan &amp; Petrosino 2003).</p>  <p> </p>  <p>Another method to emerge in the research is to support some aspects of a complex task while students perform the entire task (Sweller &amp; Cooper 1985). This result called the** worked-example effect** is one example of a process called **scaffolding** whereby instructors temporarily relieve some of the cognitive load so that students can focus on particular dimensions of learning.</p>  <p> </p>  <p>To illustrate this distinction between extraneous and germane load consider engi- neering students who are having difficulty solving practice</p>  <p>problems.</p>  <p> </p>  <p>The application of skills (or knowledge strategies approaches or habits) learned in one context to a novel context is referred to as **transfer**. Transfer is said to be near if the learning context and transfer context are similar and far when the contexts are dissimilar.
+Stages in the Development of Mastery
+
+UNCONSCIOUS Competence
+CONSCIOUS Competence
+CONSCIOUS Incompetence
+UNCONSCIOUS Incompetence
+
+When expert instructors are blind to the learning needs of novice students it is known as **expert blind spot** (Nickerson 1999; Hinds 1999; Nathan &amp; Koedinger 2000; Nathan &amp; Petrosino 2003).
+
+Another method to emerge in the research is to support some aspects of a complex task while students perform the entire task (Sweller &amp; Cooper 1985). This result called the** worked-example effect** is one example of a process called **scaffolding** whereby instructors temporarily relieve some of the cognitive load so that students can focus on particular dimensions of learning.
+
+To illustrate this distinction between extraneous and germane load consider engineering students who are having difficulty solving practice problems.
+
+The application of skills (or knowledge strategies approaches or habits) learned in one context to a novel context is referred to as **transfer**. Transfer is said to be near if the learning context and transfer context are similar and far when the contexts are dissimilar.

@@ -1,1 +1,0 @@
-**FOL**: feeling of learning

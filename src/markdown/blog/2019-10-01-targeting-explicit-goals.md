@@ -2,7 +2,9 @@ The authors of the Benchmarks for Science Literacy underscore the challenge in b
 
 Wiggins and McTighe mention the work of Adler and Van Doren (1940) who studied actively asking and answering questions of meaning as students read texts to better understand their readings. **To understand then requires designing and teaching for understanding avoiding forgetfulness clarifying misconceptions and achieving transfer by means of uncovering the following three items:**
 
-**- students' potential misunderstandings**</p>  <p>**- questions issues and assumptions**</p>  <p>**- and core ideas at the heart of subjects that aren't obvious or are perhaps even counterintuitive to the novice.**
+**- students' potential misunderstandings**
+**- questions issues and assumptions**
+**- and core ideas at the heart of subjects that aren't obvious or are perhaps even counterintuitive to the novice.**
 
 To do this teachers can ask focused questions elicit feedback and perform diagnostic assessment of students’ prior knowledge. Clearing up misconceptions to clarify organize and cement transferable knowledge is the first step in this journey. Another question teachers can ask is: how do we prioritize select wisely from obligations to state and district content standards and ensure that units are coherent within the context of a course or educational program?
 
@@ -10,4 +12,13 @@ Big Ideas are typically the abstract non-obvious and often counterintuitive idea
 
 **By implementing inquiry performance and reflection in the classroom and framing goals understandings and essential questions within the constraints of a learning schema (i.e. Big Ideas) for students teachers enable students to infer (and thereby construct and connect) knowledge** during well-designed and well-facilitated sessions.
 
-According to Wiggins and McTighe **Big ideas can be framed as:**</p>  <p>- concepts (e.g. adaptation function quantum perspective) </p>  <p>- themes (e.g. "good triumphs over evil" "coming of age" "go West") </p>  <p>- ongoing debates and/or points of view (e.g. nature versus nurture conservatives versus liberals acceptable margin of error) </p>  <p>- paradoxes (e.g. freedom must have limits leave home to find oneself imaginary numbers) </p>  <p>- theories (e.g. evolution via natural selection Manifest Destiny fractals for explaining apparent randomness) </p>  <p>- underlying assumptions (e.g. texts have meaning markets are rational parsimony of explanation in science) </p>  <p>- recurring questions (e.g. "Is that fair?" "How do we know?" "Can we prove it?") </p>  <p>- understandings or principles (e.g. form follows function the reader has to question the text to understand it correlation does not ensure causality)
+According to Wiggins and McTighe **Big ideas can be framed as:**
+
+- concepts (e.g. adaptation function quantum perspective)
+- themes (e.g. "good triumphs over evil" "coming of age" "go West")
+- ongoing debates and/or points of view (e.g. nature versus nurture conservatives versus liberals acceptable margin of error)
+- paradoxes (e.g. freedom must have limits leave home to find oneself imaginary numbers)
+- theories (e.g. evolution via natural selection Manifest Destiny fractals for explaining apparent randomness)
+- underlying assumptions (e.g. texts have meaning markets are rational parsimony of explanation in science)
+- recurring questions (e.g. "Is that fair?" "How do we know?" "Can we prove it?")
+- understandings or principles (e.g. form follows function the reader has to question the text to understand it correlation does not ensure causality)

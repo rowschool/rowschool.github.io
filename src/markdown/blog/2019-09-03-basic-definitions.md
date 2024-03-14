@@ -1,12 +1,24 @@
-Design v.—To have purposes and intentions; to plan and execute —Oxford English Dictionary
+Design *v.* — To have purposes and intentions; to plan and execute —Oxford English Dictionary
 
-Learning - a process that leads to change which occurs as a result of experience and increases the potential for improved performance and future learning (adapted from Mayer 2002).
+<u>Learning</u> - a process that leads to change which occurs as a result of experience and increases the potential for improved performance and future learning (adapted from Mayer 2002).
 
-<p>This definition has three components:</p>  <ol>  <li> Learning is a process not a product. However because this process takes place in the mind we can only infer that it has occurred from students’ products or performances.</li>  <li> Learning involves change in knowledge beliefs behaviors or attitudes. This change unfolds over time; it is not fleeting but rather has a lasting impact on how students think and act.</li>  <li> Learning is not something done to students but rather something students themselves do. It is the direct result of how students interpret and respond to their experiences—conscious and unconscious past and present.</li>  </ol>
+This definition has three components:
+
+<ol>
+	<li>
+		Learning is a process not a product. However because this process takes place in the mind we can only infer that it has occurred from students’ products or performances.
+	</li>
+	<li>
+		Learning involves change in knowledge beliefs behaviors or attitudes. This change unfolds over time; it is not fleeting but rather has a lasting impact on how students think and act.
+	</li>
+	<li>
+		Learning is not something done to students but rather something students themselves do. It is the direct result of how students interpret and respond to their experiences—conscious and unconscious past and present.
+	</li>
+</ol>
 
 "Learning is not a single thing—there is no central processing unit responsible for all learning and the brain is not a homogenous lump of neurons. The brain has many learning systems each of which has a different neural structure and a unique appetite. Effective instruction depends on choosing pedagogical moves that nourish the right learning system for the desired outcomes. If you want people to learn to respond appropriately to frustration give them a chance to observe a role model don’t just tell them to buck up. If you want people to change their bad habits use reinforcement not willpower." - The ABCs of How We Learn
 
-Curriculum refers to the specific blueprint for learning that is derived from desired results—that is content and performance standards (be they state-determined or locally developed). Curriculum takes content (from external standards and local goals) and shapes it into a plan for how to conduct effective and engaging teaching and learning. It is thus more than a list of topics and lists of key facts and skills (the "inputs"). It is <i>a map</i> for how to achieve the "outputs" of desired student performance in which appropriate learning activities and assessments are suggested to make it more likely that students achieve the desired results.
+Curriculum refers to the specific blueprint for learning that is derived from desired results—that is content and performance standards (be they state-determined or locally developed). Curriculum takes content (from external standards and local goals) and shapes it into a plan for how to conduct effective and engaging teaching and learning. It is thus more than a list of topics and lists of key facts and skills (the "inputs"). It is *a map* for how to achieve the "outputs" of desired student performance in which appropriate learning activities and assessments are suggested to make it more likely that students achieve the desired results.
 
 A big idea is a concept theme or issue that gives meaning and connection to dis- crete facts and skills.
 

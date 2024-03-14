@@ -6,13 +6,24 @@ The Yerkes-Dodson Law describes the relation between arousal and performance (Ye
 
 Scientists have yet to agree on how emotion and arousal interact to influence learning. There are very many emotions to investigate including sadness joy and anger. The scope of Chapter X was limited to describing general states of arousal irrespective of emotional valence.
 
-self-efficacy - people's belief that they have what it takes to accomplish a goal</p>  <p> </p>  <p>People regularly make motivation-relevant attributions that reveal the Fundamental Attribution Error (Ross 1977).
+self-efficacy - people's belief that they have what it takes to accomplish a goal</p>  <p></p>  <p>People regularly make motivation-relevant attributions that reveal the Fundamental Attribution Error (Ross 1977).
 
-<p>For example</p>  <ul>  <li style=font-weight: 400;>Americans tend to believe that other people's bad behavior is caused by bad personalities whereas their own bad behavior is caused by the environment.</li>  <li style=font-weight: 400;>When driving to work a car cuts you off and you think the driver is a jerk and a bully but when you cut someone off it is because your boss would fire you for being late again.</li>  <li style=font-weight: 400;>"I cannot do this task well because my teacher is being mean."</li>  </ul>
+For example
 
-schema - a general representation for a common class of situations. People have a schema for eating out that includes sitting down ordering food eating and paying the bill (and maybe tipping).</p>  <p> </p>  <p>**Sleep’s relevance to learning** is twofold:
+<ul>  
+	<li>Americans tend to believe that other people's bad behavior is caused by bad personalities whereas their own bad behavior is caused by the environment.</li>  
+	<li>When driving to work a car cuts you off and you think the driver is a jerk and a bully but when you cut someone off it is because your boss would fire you for being late again.</li>  
+	<li>"I cannot do this task well because my teacher is being mean."</li>
+</ul>
 
-<ol>  <li style=font-weight: 400;>alertness to feed attention which can store new memories during the day</li>  <li style=font-weight: 400;>memory consolidation at night to facilitate pattern-matching by integrating with prior knowledge during the day </li>  </ol>
+schema - a general representation for a common class of situations. People have a schema for eating out that includes sitting down ordering food eating and paying the bill (and maybe tipping).
+
+**Sleep’s relevance to learning** is twofold:
+
+<ol>  
+	<li>alertness to feed attention which can store new memories during the day</li>  
+	<li>memory consolidation at night to facilitate pattern-matching by integrating with prior knowledge during the day</li>
+</ol>
 
 **Slow-wave sleep (SWS)** is named after these slow (for the brain at least) on-off oscillations. Researchers know **SWS is related to learning** because **the waves are stronger after a day of heavy learning** (after studying for finals) and **weaker** if not much learning has occurred (**a lazy summer day**).
 
@@ -20,4 +31,6 @@ They also show up in predictable brain locations. If a person learns a motor rou
 
 **Sleeping more can also lead to decreased forgetting and greater athletic performance.**
 
-<ul>  <li style=font-weight: 400;> A classic study showed that after learning nonsense syllables taking a nap helps people to forget less than staying awake does. Even when tested as little as one hour after learning **participants forgot more syllables if they stayed awake than if they napped during that hour** (Jenkins &amp; Dallenbach 1924). Interestingly different types of memory seem to be boosted preferentially during different sleep stages: emotional implicit and procedural memory may be boosted during REM sleep while declarative memory and insight learning may benefit more from SWS. </li>  </ul>  <p>Mah Mah Kezirian and Dement (2011) asked Stanford University **basketball players to extend their nighttime sleep by two hours** to a minimum of ten hours in bed (alone) per night for about six weeks. Mah and colleagues found improvement in sprint times free-throw percentage and three-point shot success even though the athletes reported already feeling at the peak of their athletic skill before the start of the study.</p>
+A classic study showed that after learning nonsense syllables taking a nap helps people to forget less than staying awake does. Even when tested as little as one hour after learning **participants forgot more syllables if they stayed awake than if they napped during that hour** (Jenkins &amp; Dallenbach 1924). Interestingly different types of memory seem to be boosted preferentially during different sleep stages: emotional implicit and procedural memory may be boosted during REM sleep while declarative memory and insight learning may benefit more from SWS.
+
+Mah Mah Kezirian and Dement (2011) asked Stanford University **basketball players to extend their nighttime sleep by two hours** to a minimum of ten hours in bed (alone) per night for about six weeks. Mah and colleagues found improvement in sprint times free-throw percentage and three-point shot success even though the athletes reported already feeling at the peak of their athletic skill before the start of the study.

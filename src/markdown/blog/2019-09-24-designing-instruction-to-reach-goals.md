@@ -6,9 +6,23 @@ A Vygotskian would place more emphasis on the social interactions involved in th
 
 Citing these scholars she elucidates the metaprinciples that guide instructional design:
 
-**Metaprinciple 1: Build on Prior Knowledge.**</p>  <p>**Metaprinciple 2: Make Thinking Explicit. **
+**Metaprinciple 1: Build on Prior Knowledge.**
 
-<p>Ways to do this include: </p>  <ol>  <li> directing learners' attention to key features which in turn aids encoding clarifying declarative procedural and especially metacognitive components of the learning task (Siegler 1998)</li>  <li> to have students use a scientist's notebook to reveal preconceptions held before instruction)</li>  <li> teachers posing questions and encouraging comparison and contrast</li>  </ol>
+**Metaprinciple 2: Make Thinking Explicit.**
+
+Ways to do this include:
+
+<ol>
+	<li>
+		directing learners' attention to key features which in turn aids encoding clarifying declarative procedural and especially metacognitive components of the learning task (Siegler 1998)
+	</li>
+	<li>
+		to have students use a scientist's notebook to reveal preconceptions held before instruction)
+	</li>
+	<li>
+		teachers posing questions and encouraging comparison and contrast
+	</li>
+</ol>
 
 **Metaprinciple 3: Emphasize Links.**
 
@@ -16,7 +30,7 @@ Tools to do this involve concept mapping as a means of activating prior knowledg
 
 Also students at the Children's School go on trips to the pond near campus during the science unit on ponds reinforcing and extending concepts connecting their school experiences to in-person experiences at the pond.
 
-**Metaprinciple 4: Provide Practice Opportunities. **
+**Metaprinciple 4: Provide Practice Opportunities.**
 
 **Metaprinciple 5: Expect Individual Variability.**
 
