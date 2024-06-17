@@ -1,0 +1,3 @@
+What do learners need given the desired results? What is the best use of time spent in and out of the classroom given students' performance goals? Instructors can monitor student learning by means of assessment providing valuable feedback with which they can rethink revise and refine lessons. In turn students should be able to answer **what they already know about a subject what they want to learn and instructors can track what the key learnings will be** as they go through a lesson (characterized as the **K-W-L approach** by Wiggins &amp; McTighe).
+
+This has the effect that in concert teachers and students can work together to gauge course objectives students' attributes and the context within which learning is taking place to assess and strive toward understanding.

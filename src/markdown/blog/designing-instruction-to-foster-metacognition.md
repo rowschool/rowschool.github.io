@@ -1,0 +1,5 @@
+How can teachers design course instruction to develop students into metacognitive lifelong learners? They can remind students often about the larger conceptual framework of the course and how daily lessons fit into that framework providing contrasting cases to illustrate the boundaries of the course's knowledge. By **explicitly connecting concepts** as they are introduced in the course they can encourage students to create their own mental models as they progress through the course.
+
+To further metacognitive abilities teachers can literally (in terms of the definition of metacognition) **require students to think about their work** as they work. Reflections on their own **strengths weaknesses and study skills annotations of their own work and guided peer reviews** with specific criteria (e.g. critiques) all serve as ways to incorporate metacognitive thinking into instruction.
+
+Lastly **teachers can model** their own metacognitive processes for students sharing how they envision connections between the course's concepts and how those concepts fit into greater hierarchies and webs of knowledge.

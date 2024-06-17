@@ -1,0 +1,55 @@
+.button-selector { // div
+    font-size: 24px;
+    background-color: $white;
+    padding: 10px;
+    box-shadow: 2px 2px 1px $figureColor;
+    width: max-content;
+    margin: 40px auto 0 auto;
+}
+
+.button-selector-pills { // ul
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 10px;
+
+    a, a:-webkit-any-link {
+        &:hover {
+            text-decoration: none;
+        }
+    }
+
+    li {
+        position: relative;
+        display: block;
+        padding: 10px 15px;
+        text-align: center;
+        border-radius: 0px;
+        background-color: $white;
+        color: $figureColor;
+
+        &:hover {
+            text-decoration: none;
+            background-color: $groundColor;
+            color: $figureColor;
+        }
+    }
+
+    li.active {
+        text-decoration: underline;
+    }
+}
+
+@media (max-width: 991px) {
+    .button-selector {
+        width: inherit;
+        font-size: inherit;
+        margin: 25px 0 0 0;
+    }
+
+    .button-selector-pills {
+        li {
+            padding: 10px;
+        }
+    }
+}

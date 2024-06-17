@@ -1,0 +1,1 @@
+Technology can be used to provide timely and targeted feedback on student performance and support active learning and engagement during class. Examples include blended courses using tools like CMU's OLI platform or courses that use in-class clicker questions."

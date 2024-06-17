@@ -1,0 +1,3 @@
+To understand means to be able to perform flexibly.
+
+For readers interested in the nature of understanding - like a jazz improvisation (where prior thought plays no critical or determining role) - Wiggins and McTighe suggest the following books: Gilbert Ryle’s The Concept of Mind (1949) Perkins’s chapter in Teaching for Understanding (Wiske 1998) and The Nature of Insight (Sternberg &amp; Davidson 1995).

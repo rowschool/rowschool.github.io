@@ -1,0 +1,5 @@
+The purpose of planning course content is to **achieve predictable results**. The purpose of **improvisation** in a course such as **breaking through students’ pre-existing mental models** is to maintain progress.
+
+To target results instructors should **begin with content standards** and consider **real-world applications** of course content. This helps zero in on Big Ideas or essential questions to focus teaching. What are the enduring understandings to be gained by students? What transferable skills will they gain? What evidence of learning will be produced? Answering these questions leads to the creation of more meaningful course work. It also heightens teacher attentiveness in the moment of instruction potentially enhancing learners' experiences.
+
+The goal of backwards planning in courses then is to **ensure students acquire knowledge and skills in order to handle key tasks in the field** as they construct and then apply knowledge without real-world penalties. As they **train themselves** and develop the habits of mind in the classroom they prepare themselves to **perform outside the classroom**.

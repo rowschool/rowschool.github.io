@@ -1,0 +1,38 @@
+{
+  "name": "rowschool.com",
+  "version": "1.0.0",
+  "description": "The Results-Oriented Work School",
+  "main": "server.js",
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3",
+    "commander": "^12.0.0",
+    "handlebars": "^4.7.7",
+    "js-beautify": "^1.14.0",
+    "live-server": "^1.2.1",
+    "mkdirp": "^3.0.1",
+    "nodemon": "^2.0.15",
+    "sass": "1.77.5",
+    "showdown": "^1.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "build-css": "node-sass --include-path scss src/static/styles/main.scss styles/main.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\"",
+    "build-views": "node build/build.js -d cwd -p \"src/views/partials/**/*.hbs\" -l \"src/views/layouts/**/*.hbs\" -t \"src/views/templates/**/*.hbs\" -v",
+    "watch-views": "nodemon -e hbs -x \"npm run build-views\"",
+    "build-md": "node build/markdown-to-handlebars src/markdown/blog/ src/views/templates/blog/",
+    "update-post": "npm run build-md",
+    "clear-html": "rm *.html && rm **/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowschool/rowschool.github.io.git"
+  },
+  "author": "Neil Thawani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rowschool/rowschool.github.io/issues"
+  },
+  "homepage": "https://github.com/rowschool/rowschool.github.io#readme"
+}

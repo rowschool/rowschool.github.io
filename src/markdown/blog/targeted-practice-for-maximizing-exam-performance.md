@@ -1,0 +1,1 @@
+Deliberate practice has implications in the domain of **studying for assessments** - students may internalize 80% of the material or exercises on a summative exam but **the remaining 20% may need to be targeted and effortfully practiced** to maximize performance on the test.

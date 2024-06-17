@@ -1,0 +1,1 @@
+How can learning science investigate and build upon the work of Lovett's (2001) **studies on component skill practice**? Can we uncover ways to affect overall task performance disproportionately to the amount of time invested in that task? Under **what conditions do students benefit from whole-task practice vs. component-based practice**?

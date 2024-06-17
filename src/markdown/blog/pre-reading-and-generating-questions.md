@@ -1,0 +1,5 @@
+While delivering instruction **teachers should form class structure around practice quizzes**. This is because taking practice quizzes may be better than rereading the book. **Taking a pre-reading quiz** may help students remember more as it **activates any related knowledge they have about the topic** and makes it easier to connect new information to what they are about to read or observe.
+
+Teachers should advise students during class to **come back to the course later in the day and flesh out lecture notes** adding any information they did not write down initially and noting places where they didn’t understand something. Concerned teachers may also advise students to reconstruct notes taken in class and pinpoint areas of confusion or difficulty **instead of rereading whole chapters**.
+
+Generating questions about important points fosters comprehension and forces students to think hard. "Elaboration" in this context connects what students learn to what they already know. Answering questions like "Why is this true?" or "What parts of this page are new to me?" serve as a study guide for later.

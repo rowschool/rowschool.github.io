@@ -1,0 +1,5 @@
+**At the start of a semester** insert classroom activities and extracurriculars into a calendar. Review the upcoming month once per week alerting yourself if several assignments are due at the same time and you need to start studying early. **Setting calendar reminders** for the week before an exam project or recurring events like quizzes can prevent things from slipping through the cracks. Time management is crucial - in addition to attending class it helps learners to review one day’s work in the evening and also prepare for the following day’s assignments.
+
+This is an example of **The Spacing Effect** - learning and internalizing information over time gradually. Another example is reading about a concept before class and then hearing it in lecture after a delay making it more likely you’ll remember the concept in the future. This is an advantage of the "reviewing and preparing" model mentioned above.
+
+A caveat of this approach is that learners much make sure they **get enough sleep** and don’t stay up late to study.

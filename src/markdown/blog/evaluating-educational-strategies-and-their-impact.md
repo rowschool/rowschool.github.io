@@ -1,0 +1,5 @@
+Studies can be undertaken to **investigate the benefits of in-person lectures compared to reading a textbook**. Does communicating with others or asking questions in class support **research on active learning**?
+
+Research can also be conducted on distributing motivational supports and **putting reminders and rewards into the environment** in order to achieve self-defined goals. A previous study by Oppezzo and Schwartz (2013) found that these strategies worked for students who wanted to increase the amount of fruits and vegetables in their diets compared to those who were taught self-talk strategies.
+
+Students should also be instructed to **monitor their sleep habits** so that researchers can **measure their problem-solving abilities along various dimensions** like in a study conducted by Beijamini Pereira Cini and Louzada (2014).

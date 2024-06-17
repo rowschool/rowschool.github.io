@@ -1,0 +1,1 @@
+There were not many implications for assessment in these two readings. Perhaps oral exams may be impacted - if there is a time limit on how students present information to an instructor **they may feel pressured to conform to cultural norms outside of their own**. This could **increase cognitive load and lead to poorer assessment outcomes**.

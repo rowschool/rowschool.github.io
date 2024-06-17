@@ -1,0 +1,3 @@
+"Deliberate practice is characterized by a high degree of focused effort to develop specific skills and concepts beyond one’s current abilities [improving] learning and performance through two cognitive mechanisms: chunking and knowledge reorganization.
+
+Deliberate practice **isolates specific and often difficult tasks from the flow of the overall activity** [allowing] for the time and mental effort necessary to support chunking and knowledge reorganization."

@@ -1,0 +1,5 @@
+<a href="http://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Putnam-et-al-2016_PPS.pdf" target="_blank" rel="noopener">Putnam et al. (2016)</a> cite that **overconfident** students may know less than they think they do. This is something that leads to poor assessment performance.
+
+To prepare for tests **students should start by answering questions they wrote while actively studying** - reading the text or reviewing notes from class. This form of engagement enhances memory. By **using questions created while studying as a study guide** students review what they cannot retrieve but they should be sure that when they do retrieve something the answer is definitely correct.
+
+Retrieving quiz or test answers from memory makes it easier to do so in the future and applying other memory techniques like mnemonic acronyms and method of loci **improve retention further**.
