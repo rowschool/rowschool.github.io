@@ -9,8 +9,9 @@
     "handlebars": "^4.7.7",
     "js-beautify": "^1.14.0",
     "live-server": "^1.2.1",
-    "node-sass": "^9.0.0",
+    "mkdirp": "^3.0.1",
     "nodemon": "^2.0.15",
+    "sass": "1.77.5",
     "showdown": "^1.9.1"
   },
   "scripts": {
