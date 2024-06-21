@@ -1,0 +1,12 @@
+@media (min-width: 992px) {
+  .visible-phone {
+    display: none;
+  }
+}
+@media (max-width: 991px) {
+  .hidden-phone {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=mobile.css.map */

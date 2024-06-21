@@ -100,26 +100,46 @@ a {
     padding: 30px 0;
 }
 
-.course-list-item-outer {
-    width: 300px;
-    height: 200px;
+.content-box-outer {
     background-color: $brandColorPrimary;
     padding: 5px;
-    margin: 20px 5px;
-    position: relative;
+    margin: 20px 5px 40px 5px;
     box-shadow: 3px 3px $boxShadowColor;
 }
 
-.course-list-item-inner {
-    padding: 30px 10px 0px 10px;
+.content-box-inner {
+    padding: 30px 40px 20px 40px;
     background-color: $backgroundColor;
     color: $textColor;
+}
+
+.content-box-inner span {
+    line-height: 4;
+    font-size: 18px;
+}
+
+.content-box-inner li {
+    margin-left: 24px;
+    font-size: 18px;
+}
+
+.course-list-item-outer {
+    @extend .content-box-outer;
+    margin: 0;
+    position: relative;
+    width: 300px;
+    height: 200px;
+}
+
+.course-list-item-inner {
+    @extend .content-box-inner;
+    padding: 30px 10px 0px 10px;
+    cursor: pointer;
     position: absolute;
     top: 5px;
     right: 5px;
     bottom: 5px;
     left: 5px;
-    cursor: pointer;
 
     &:hover {
         background-color: $hoverTileBackgroundColor;
