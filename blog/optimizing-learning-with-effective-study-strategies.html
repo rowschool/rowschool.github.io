@@ -40,26 +40,6 @@
     <!-- Begin Gatsby de-cache script -->
     <!-- Source: https://github.com/gatsbyjs/gatsby/issues/15623 -->
     <script>
-        this.addEventListener('install', (e) => {
-            console.log('install', e);
-            this.skipWaiting();
-            console.log('install - skipped waiting');
-        });
-
-        this.addEventListener('activate', (e) => {
-            console.log('activate', e);
-            this.registration.unregister()
-                .then(function() {
-                    console.log('activate - unregistered and returning this.clients.matchAll');
-                    return this.clients.matchAll();
-                })
-                .then(function(clients) {
-                    console.log('activate - secondary action - navigating to client url');
-                    clients.forEach(client => client.navigate(client.url))
-                    console.log('activate - secondary action - complete');
-                });
-        });
-
         document.addEventListener('DOMContentLoaded', function(event) {
             console.log('DOM loaded', event);
             if (navigator && navigator.serviceWorker && navigator.serviceWorker.getRegistrations) {
@@ -71,6 +51,26 @@
                     }
                 });
             }
+
+            document.addEventListener('install', (e) => {
+                console.log('install', e);
+                this.skipWaiting();
+                console.log('install - skipped waiting');
+            });
+
+            document.addEventListener('activate', (e) => {
+                console.log('activate', e);
+                this.registration.unregister()
+                    .then(function() {
+                        console.log('activate - unregistered and returning this.clients.matchAll');
+                        return this.clients.matchAll();
+                    })
+                    .then(function(clients) {
+                        console.log('activate - secondary action - navigating to client url');
+                        clients.forEach(client => client.navigate(client.url))
+                        console.log('activate - secondary action - complete');
+                    });
+            });
         });
     </script>
     <!-- End Gatsby de-cache script -->
