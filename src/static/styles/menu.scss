@@ -1,6 +1,6 @@
 .nav { // div
     font-size: 24px;
-    background-color: $backgroundColor;
+    background-color: white;
     display: flex;
     justify-content: flex-end;
     margin-bottom: 40px;
@@ -29,15 +29,17 @@
     li {
         position: relative;
         display: block;
-        padding: 10px 40px;
+        padding: 8px 16px;
         text-align: center;
         border-radius: 0px;
-        background-color: $backgroundColor;
+        background-color: white;
         color: $figureColor;
+        margin: 0 30px;
+        font-size: 20px;
 
         &:hover {
-            text-decoration: underline;
-            // background-color: $groundColor;
+            // text-decoration: underline;
+            background-color: $backgroundColor;
             color: $figureColor;
         }
     }

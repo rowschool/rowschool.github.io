@@ -1,6 +1,6 @@
 @function evenColumnWidth($num_columns, $width_precision)
 {
-  @return percentage(floor((1 / $num_columns) * $width_precision) / $width_precision)
+  @return percentage(floor(calc(calc(1 / $num_columns) * $width_precision) / $width_precision))
 }
 
 @mixin evenColumnsMixin {
@@ -22,7 +22,7 @@
         flex: 1 0 evenColumnWidth($column, 100);
       }
 
-      .even-column:nth-last-child(-n+#{$column} + 1) + .even-column:nth-child(n+#{$column} + 1) {
+      .even-column:nth-last-child(-n+#{$column}) + .even-column:nth-child(n+#{$column}) {
         max-width: evenColumnWidth($column, 10000);
       }
     }

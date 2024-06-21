@@ -14,11 +14,15 @@
     "sass": "1.77.5",
     "showdown": "^1.9.1"
   },
+  "//": [
+    "`npm watch-css` does not work with other commands and you will have to run it manually in a separate tab next to `npm start`",
+    "test comment"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "build-css": "node-sass --include-path scss src/static/styles/main.scss styles/main.css",
-    "watch-css": "nodemon -e scss -x \"npm run build-css\"",
+    "start": "node server.js && npm run watch-css",
+    "build-css": "sass src/static/styles/main.scss styles/main.css",
+    "watch-css": "sass --watch src/static/styles/main.scss:styles/main.css",
     "build-views": "node build/build.js -d cwd -p \"src/views/partials/**/*.hbs\" -l \"src/views/layouts/**/*.hbs\" -t \"src/views/templates/**/*.hbs\" -v",
     "watch-views": "nodemon -e hbs -x \"npm run build-views\"",
     "build-md": "node build/markdown-to-handlebars src/markdown/blog/ src/views/templates/blog/",
