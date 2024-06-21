@@ -50,7 +50,7 @@ if (isDirectory) {
         var titleString = `<h1 class="blog-post-title">${title}</h1>`;
         var subtitleString = `<h1 class="blog-post-subtitle">${jsonData['subtitle']}</h1>`;
         var postAsHtml = `<article class="blog-post-content">${showdownConverter.makeHtml(markdownFile)}</article>`;
-        var createdAtString = `<p class="blog-post-created-at">Published ${createdAt}</p>`;
+        var createdAtString = ''; // `<p class="blog-post-created-at">Published ${createdAt}</p>`;
         var tagsString = tags?.map((tag) => {
             return `<span class="blog-post-tag">${tag}</span>`;
         }).join("") || '';

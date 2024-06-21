@@ -1,6 +1,6 @@
 @function evenColumnWidth($num_columns, $width_precision)
 {
-  @return percentage(floor(calc(calc(1 / $num_columns) * $width_precision) / $width_precision))
+  @return percentage(floor(calc(calc(calc(1 / $num_columns) * $width_precision) / $width_precision))) 
 }
 
 @mixin evenColumnsMixin {
