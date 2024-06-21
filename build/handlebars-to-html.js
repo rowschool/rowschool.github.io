@@ -92,7 +92,9 @@ function writeFiles (pattern, folderPath, outputFolder) {
                                     .slice(0, 200)
                                     .concat('...');
             const ogpDescription = `<meta property="og:description" content="${description}" />`;
-            const metaDescTagStartIndex = template.lastIndexOf(newTitle) + `${newTitle} " />}`.length - 1;
+            // Not sure what happened here, but adding +4 because the tag
+            // was being inserted 4 characters before the closing </title> tag.
+            const metaDescTagStartIndex = template.lastIndexOf(newTitle) + `${newTitle} " />}`.length - 1 + 4;
             
             template = template.slice(0, metaDescTagStartIndex) + `    ${ogpDescription}\n` + template.slice(metaDescTagStartIndex);
         }

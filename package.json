@@ -16,7 +16,7 @@
   },
   "//": [
     "`npm watch-css` does not work with other commands and you will have to run it manually in a separate tab next to `npm start`",
-    "test comment"
+    "Sorry."
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
