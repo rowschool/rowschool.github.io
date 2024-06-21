@@ -121,8 +121,13 @@ a {
 }
 
 .content-box-inner span {
-    line-height: 4;
     font-size: 18px;
+}
+
+@media (min-width: 992px) {
+    .content-box-inner span {
+        line-height: 4;
+    }
 }
 
 .content-box-inner li {
