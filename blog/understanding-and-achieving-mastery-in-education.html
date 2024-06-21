@@ -36,6 +36,30 @@
     <script type="text/javascript" src="src/static/javascript/blog.js"></script>
     <script type="text/javascript" src="src/static/javascript/menu.js"></script>
 
+    <!-- Begin Gatsby de-cache script -->
+    <script>
+        this.addEventListener('install', (e) => {
+            console.log('install', e);
+            this.skipWaiting();
+            console.log('install - skipped waiting');
+        });
+
+        this.addEventListener('activate', (e) => {
+            console.log('activate', e);
+            this.registration.unregister()
+                .then(function() {
+                    console.log('activate - unregistered and returning this.clients.matchAll');
+                    return this.clients.matchAll();
+                })
+                .then(function(clients) {
+                    console.log('activate - secondary action - navigating to client url');
+                    clients.forEach(client => client.navigate(client.url))
+                    console.log('activate - secondary action - complete');
+                });
+        });
+    </script>
+    <!-- End Gatsby de-cache script -->
+
     <link type="text/css" href="styles/main.css" rel="stylesheet">
   </head>
 
