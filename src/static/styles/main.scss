@@ -60,7 +60,7 @@ a {
 
 .content-container {
     max-width: 75%;
-    margin: 0 auto;
+    margin: 0 auto 40px auto;
 }
 
 .content-text {
@@ -199,90 +199,3 @@ a {
 .footer-container-text {
 
 }
-
-// @import "grid";
-// @import "icons";
-// @import "menu";
-// @import "tables";
-
-// ul {
-//     -webkit-margin-before: 0;
-//     -webkit-margin-after: 0;
-//     -webkit-margin-start: 0;
-//     -webkit-margin-end: 0;
-//     -webkit-padding-start: 0;
-// }
-
-// a, a:-webkit-any-link {
-//     background-color: $groundColor;
-//     color: $figureColor;
-//     text-decoration: none;
-
-//     &:hover {
-//         text-decoration: underline;
-//     }
-// }
-
-// a.has-img {
-//     background: none;
-// }
-
-// body {
-//     background-color: $groundColor;
-//     margin: 0 auto 40px auto;
-//     font-family: "Proxima Nova", "Helvetica Neue", Helvetica, "Arial Light", sans-serif;
-//     font-weight: 300;
-//     color: $figureColor;
-//     font-size: 1.25em;
-// }
-
-// h1, h2, h3, h6 {
-//     font-weight: inherit;
-//     margin: 0;
-// }
-
-// // override Chrome defaults
-// p {
-//   margin-block-start: 0;
-// }
-
-// p:last-child {
-//   margin-block-end: 0;
-// }
-
-// .text-center {
-//     text-align: center;
-// }
-
-// .middle {
-//     margin: 10px auto;
-// }
-
-// .hidden {
-//     display: none;
-// }
-
-// .content-container {
-//     color: $figureColor;
-//     padding: 20px 40px;
-//     background-color: $white;
-//     box-shadow: 2px 2px 1px $figureColor;
-//     margin: 25px auto;
-//     width: 50%;
-
-//     // Prevent vertical margin collapse with flexbox!
-//     display: flex;
-//     flex-direction: column;
-// }
-
-// @media (max-width: 991px) {
-//     body {
-//         margin: 0 auto;
-//     }
-
-//     .content-container {
-//         width: inherit;
-//     }
-// }
-
-/** Old **/

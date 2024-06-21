@@ -80,7 +80,7 @@ if (isDirectory) {
 
         var link = `<a class="blog-post-item-link" href="${filename}.html">${title}</a>`,
             tags = `<p class="blog-post-item-tags">${tags}</p>`,
-            datestamp = `<p class="blog-post-item-created-at">Published ${createdAt}</p>`;
+            datestamp = ''; // `<p class="blog-post-item-created-at">Published ${createdAt}</p>`;
 
         var postItem = `<div class="blog-post-item">${link}\n\n${tags}\n\n${datestamp}</div>\n\n`
 
