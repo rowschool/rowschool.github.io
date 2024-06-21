@@ -38,6 +38,7 @@
     <script type="text/javascript" src="src/static/javascript/menu.js"></script>
 
     <!-- Begin Gatsby de-cache script -->
+    <!-- Source: https://github.com/gatsbyjs/gatsby/issues/15623 -->
     <script>
         this.addEventListener('install', (e) => {
             console.log('install', e);
@@ -57,6 +58,19 @@
                     clients.forEach(client => client.navigate(client.url))
                     console.log('activate - secondary action - complete');
                 });
+        });
+
+        document.addEventListener('DOMContentLoaded', function(event) {
+            console.log('DOM loaded', event);
+            if (navigator && navigator.serviceWorker && navigator.serviceWorker.getRegistrations) {
+                console.log('DOM loaded - navigator.serviceWorker has registrations');
+                navigator.serviceWorker.getRegistrations().then((registrations) => {
+                    for(let registration of registrations) {
+                        console.log('unregister registration', registration);
+                        registration.unregister();
+                    }
+                });
+            }
         });
     </script>
     <!-- End Gatsby de-cache script -->
