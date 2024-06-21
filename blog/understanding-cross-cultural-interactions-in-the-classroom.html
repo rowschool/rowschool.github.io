@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns#">
   <head>
-    <title>ROW School - Blog - Understanding Cross-Cultural Interactions in the Classroom</title>
+    <title>ROW School - Blog - Understanding Cross-Cultural Interactions in the Classroom</tit    <meta property="og:description" content="
+              Cross-cultural interactions are framed by the participants' expectations about normative behaviors . Frames are the rules of conduct and discourse in social contexts which enable us to ..." />
+le>
 
     <meta name="viewport" content="width=device-width, user-scalable=no">
 
@@ -9,13 +11,10 @@
     <meta property="og:image" content="src/static/images/favicon.png" />
     <meta property="og:image:width" content="200" />
     <meta property="og:image:height" content="200" />
-    <meta property="og:title" content="ROW School - Blog - Understanding Cross-Cultural Interactions in the Classroom" />
-    <meta property="og:description" content="
-              Cross-cultural interactions are framed by the participants' expectations about normative behaviors . Frames are the rules of conduct and discourse in social contexts which enable us to ..." />
+    <meta property="og:title" content="ROW School - The Results-Oriented Work School" />
     
 
     <link rel="shortcut icon" type="image/x-icon" href="src/static/images/favicon.png">
-    <link rel="manifest" href="public/manifest.json" />
 
     <base href="/">
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -36,44 +35,6 @@
 
     <script type="text/javascript" src="src/static/javascript/blog.js"></script>
     <script type="text/javascript" src="src/static/javascript/menu.js"></script>
-
-    <!-- Begin Gatsby de-cache script -->
-    <!-- Source: https://github.com/gatsbyjs/gatsby/issues/15623 -->
-    <script>
-        document.addEventListener('DOMContentLoaded', function(event) {
-            console.log('DOM loaded', event);
-            if (navigator && navigator.serviceWorker && navigator.serviceWorker.getRegistrations) {
-                console.log('DOM loaded - navigator.serviceWorker has registrations');
-                navigator.serviceWorker.getRegistrations().then((registrations) => {
-                    for(let registration of registrations) {
-                        console.log('unregister registration', registration);
-                        registration.unregister();
-                    }
-                });
-            }
-
-            document.addEventListener('install', (e) => {
-                console.log('install', e);
-                this.skipWaiting();
-                console.log('install - skipped waiting');
-            });
-
-            document.addEventListener('activate', (e) => {
-                console.log('activate', e);
-                this.registration.unregister()
-                    .then(function() {
-                        console.log('activate - unregistered and returning this.clients.matchAll');
-                        return this.clients.matchAll();
-                    })
-                    .then(function(clients) {
-                        console.log('activate - secondary action - navigating to client url');
-                        clients.forEach(client => client.navigate(client.url))
-                        console.log('activate - secondary action - complete');
-                    });
-            });
-        });
-    </script>
-    <!-- End Gatsby de-cache script -->
 
     <link type="text/css" href="styles/main.css" rel="stylesheet">
   </head>
