@@ -9044,6 +9044,9 @@ a:visited {
   background-color: #ddd;
   color: #CA2222;
 }
+.course-list-item-inner:hover g {
+  fill: inherit;
+}
 
 .course-list-item-icon {
   font-size: 48px;

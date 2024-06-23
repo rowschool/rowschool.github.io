@@ -157,6 +157,10 @@ a {
     &:hover {
         background-color: $hoverTileBackgroundColor;
         color: $hoverTileForegroundColor;
+
+        g {
+            fill: inherit;
+        }
     }
 }
 
