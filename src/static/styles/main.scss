@@ -5,6 +5,7 @@
 @import "grid";
 @import "button-selector";
 @import "menu";
+@import "lego";
 
 html {
     background-color: $backgroundColor;
@@ -70,12 +71,12 @@ a {
     margin-bottom: 18px;
 }
 
-.content-text-large {
-    line-height: 1.2;
-    display: block;
-    font-size: 24px;
-    margin-bottom: 18px;
-}
+// .content-text-large {
+//     line-height: 1.2;
+//     display: block;
+//     font-size: 24px;
+//     margin-bottom: 18px;
+// }
 
 .header-text {
     text-align: center;
@@ -95,7 +96,7 @@ a {
     margin: 8px 0 40px 0;
 }
 
-.page-header {
+.page-header { // h1 usually
     font-size: 72px;
     text-align: center;
     font-weight: 200;
