@@ -1,0 +1,88 @@
+<p>Other ways of helping students set learning goals include:</p>
+
+<ol>
+	<li>
+		<strong>Identify Core Competencies: </strong>
+		Determine the essential skills and knowledge students need to acquire.
+	</li>
+	
+	<li>
+		<strong>Use SMART Criteria:</strong>
+		<ul>
+			<li>
+				<strong>Specific: </strong>
+				Clearly state what students need to learn.</li>
+			<li>
+				<strong>Measurable: </strong>
+				Ensure the goal can be assessed.</li>
+			<li>
+				<strong>Achievable: </strong>
+				Set realistic goals for students’ abilities.</li>
+			<li>
+				<strong>Relevant: </strong>
+				Align goals with curriculum standards.</li>
+			<li>
+				<strong>Time-bound: </strong>
+				Specify a timeframe for achieving the goals.</li>
+		</ul>
+	</li>
+	
+	<li>
+		<strong>Align with Standards: </strong>
+		Reference educational standards and benchmarks.
+	</li>
+	
+	<li>
+		<strong>Break Down Goals: </strong>
+		Divide broad goals into smaller, manageable objectives.
+	</li>
+	
+	<li>
+		<strong>Use Student-Friendly Language: </strong>
+		Write goals in simple, understandable terms.
+	</li>
+	
+	<li>
+		<strong>Ensure Flexibility: </strong>
+		Be open to adjusting goals based on student needs and progress.
+	</li>
+</ol>
+
+<p>Other ways of setting educational goals include:</p>
+
+<ol>
+	<li>
+		<strong>Backward Design: </strong>
+		Start with the desired end results and plan lessons to achieve those outcomes.
+	</li>
+	
+	<li>
+		<strong>Bloom's Taxonomy: </strong>
+		Use Bloom’s levels (Remember, Understand, Apply, Analyze, Evaluate, Create) to create hierarchical learning objectives.
+	</li>
+	
+	<li>
+		<strong>Learning Contracts: </strong>
+		Collaboratively set goals with students, detailing what they will learn and how they will demonstrate their knowledge.
+	</li>
+	
+	<li>
+		<strong>Competency-Based Goals: </strong>
+		Focus on students mastering specific competencies or skills at their own pace.
+	</li>
+	
+	<li>
+		<strong>Project-Based Learning: </strong>
+		Set goals around completing complex projects that require applying multiple skills and knowledge areas.
+	</li>
+	
+	<li>
+		<strong>Integrated Curriculum Goals: </strong>
+		Develop goals that combine learning across different subjects for interdisciplinary learning.
+	</li>
+	
+	<li>
+		<strong>Differentiated Goals: </strong>
+		Tailor goals to meet the varied needs, interests, and abilities of individual students.
+	</li>
+</ol>

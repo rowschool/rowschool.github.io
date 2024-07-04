@@ -8539,6 +8539,7 @@ i:before {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  align-items: center;
 }
 .even-columns-1 .even-column {
   padding: 5px;
@@ -8546,9 +8547,8 @@ i:before {
   position: relative;
   box-sizing: border-box;
   flex: 1 0 100%;
-}
-.even-columns-1 .even-column:nth-last-child(-n+1) + .even-column:nth-child(n+1) {
-  max-width: 100%;
+  margin: 20px;
+  height: max-content;
 }
 
 .even-columns-2 {
@@ -8557,6 +8557,7 @@ i:before {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  align-items: center;
 }
 .even-columns-2 .even-column {
   padding: 5px;
@@ -8564,9 +8565,8 @@ i:before {
   position: relative;
   box-sizing: border-box;
   flex: 1 0 0%;
-}
-.even-columns-2 .even-column:nth-last-child(-n+2) + .even-column:nth-child(n+2) {
-  max-width: 0%;
+  margin: 20px;
+  height: max-content;
 }
 
 .even-columns-3 {
@@ -8575,6 +8575,7 @@ i:before {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  align-items: center;
 }
 .even-columns-3 .even-column {
   padding: 5px;
@@ -8582,9 +8583,8 @@ i:before {
   position: relative;
   box-sizing: border-box;
   flex: 1 0 0%;
-}
-.even-columns-3 .even-column:nth-last-child(-n+3) + .even-column:nth-child(n+3) {
-  max-width: 0%;
+  margin: 20px;
+  height: max-content;
 }
 
 .even-columns-4 {
@@ -8593,6 +8593,7 @@ i:before {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  align-items: center;
 }
 .even-columns-4 .even-column {
   padding: 5px;
@@ -8600,9 +8601,8 @@ i:before {
   position: relative;
   box-sizing: border-box;
   flex: 1 0 0%;
-}
-.even-columns-4 .even-column:nth-last-child(-n+4) + .even-column:nth-child(n+4) {
-  max-width: 0%;
+  margin: 20px;
+  height: max-content;
 }
 
 .even-columns-5 {
@@ -8611,6 +8611,7 @@ i:before {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  align-items: center;
 }
 .even-columns-5 .even-column {
   padding: 5px;
@@ -8618,9 +8619,8 @@ i:before {
   position: relative;
   box-sizing: border-box;
   flex: 1 0 0%;
-}
-.even-columns-5 .even-column:nth-last-child(-n+5) + .even-column:nth-child(n+5) {
-  max-width: 0%;
+  margin: 20px;
+  height: max-content;
 }
 
 .even-columns-6 {
@@ -8629,6 +8629,7 @@ i:before {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  align-items: center;
 }
 .even-columns-6 .even-column {
   padding: 5px;
@@ -8636,9 +8637,8 @@ i:before {
   position: relative;
   box-sizing: border-box;
   flex: 1 0 0%;
-}
-.even-columns-6 .even-column:nth-last-child(-n+6) + .even-column:nth-child(n+6) {
-  max-width: 0%;
+  margin: 20px;
+  height: max-content;
 }
 
 .even-columns-7 {
@@ -8647,6 +8647,7 @@ i:before {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  align-items: center;
 }
 .even-columns-7 .even-column {
   padding: 5px;
@@ -8654,9 +8655,8 @@ i:before {
   position: relative;
   box-sizing: border-box;
   flex: 1 0 0%;
-}
-.even-columns-7 .even-column:nth-last-child(-n+7) + .even-column:nth-child(n+7) {
-  max-width: 0%;
+  margin: 20px;
+  height: max-content;
 }
 
 .even-columns-8 {
@@ -8665,6 +8665,7 @@ i:before {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  align-items: center;
 }
 .even-columns-8 .even-column {
   padding: 5px;
@@ -8672,9 +8673,8 @@ i:before {
   position: relative;
   box-sizing: border-box;
   flex: 1 0 0%;
-}
-.even-columns-8 .even-column:nth-last-child(-n+8) + .even-column:nth-child(n+8) {
-  max-width: 0%;
+  margin: 20px;
+  height: max-content;
 }
 
 .even-columns-9 {
@@ -8683,6 +8683,7 @@ i:before {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  align-items: center;
 }
 .even-columns-9 .even-column {
   padding: 5px;
@@ -8690,9 +8691,8 @@ i:before {
   position: relative;
   box-sizing: border-box;
   flex: 1 0 0%;
-}
-.even-columns-9 .even-column:nth-last-child(-n+9) + .even-column:nth-child(n+9) {
-  max-width: 0%;
+  margin: 20px;
+  height: max-content;
 }
 
 .even-columns-10 {
@@ -8701,6 +8701,7 @@ i:before {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  align-items: center;
 }
 .even-columns-10 .even-column {
   padding: 5px;
@@ -8708,9 +8709,8 @@ i:before {
   position: relative;
   box-sizing: border-box;
   flex: 1 0 0%;
-}
-.even-columns-10 .even-column:nth-last-child(-n+10) + .even-column:nth-child(n+10) {
-  max-width: 0%;
+  margin: 20px;
+  height: max-content;
 }
 
 .even-columns-11 {
@@ -8719,6 +8719,7 @@ i:before {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  align-items: center;
 }
 .even-columns-11 .even-column {
   padding: 5px;
@@ -8726,9 +8727,8 @@ i:before {
   position: relative;
   box-sizing: border-box;
   flex: 1 0 0%;
-}
-.even-columns-11 .even-column:nth-last-child(-n+11) + .even-column:nth-child(n+11) {
-  max-width: 0%;
+  margin: 20px;
+  height: max-content;
 }
 
 .even-columns-12 {
@@ -8737,6 +8737,7 @@ i:before {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  align-items: center;
 }
 .even-columns-12 .even-column {
   padding: 5px;
@@ -8744,9 +8745,8 @@ i:before {
   position: relative;
   box-sizing: border-box;
   flex: 1 0 0%;
-}
-.even-columns-12 .even-column:nth-last-child(-n+12) + .even-column:nth-child(n+12) {
-  max-width: 0%;
+  margin: 20px;
+  height: max-content;
 }
 
 .button-selector {
@@ -8840,11 +8840,10 @@ i:before {
 
 .mobile-nav-container {
   width: 100%;
-  background-color: #eee;
+  background-color: white;
   color: #862222;
-  padding: 10px 0;
   margin-bottom: 25px;
-  box-shadow: 2px 2px 1px #862222;
+  border-bottom: 2px solid #862222;
 }
 
 .mobile-nav {
@@ -8856,13 +8855,16 @@ i:before {
 }
 .mobile-nav .mobile-nav-item {
   display: inline;
+  margin: auto;
+  font-size: 0.8em;
 }
 .mobile-nav .mobile-nav-item a {
   background: none;
   text-decoration: none;
   padding: 10px 15px;
-  text-align: center;
+  display: block;
   border-radius: 0px;
+  color: #862222;
 }
 .mobile-nav .mobile-nav-item a:focus {
   text-decoration: none;
@@ -8945,6 +8947,19 @@ a:visited {
   color: #C5B358;
 }
 
+ol li {
+  line-height: 1.4;
+}
+
+ol li ul li {
+  margin-left: 12px;
+  list-style: none;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
 .text-center {
   text-align: center;
 }
@@ -8989,7 +9004,7 @@ a:visited {
   font-size: 72px;
   text-align: center;
   font-weight: 200;
-  margin-bottom: 24px;
+  margin-bottom: 40px;
 }
 
 .course-list {
@@ -9006,18 +9021,25 @@ a:visited {
 
 .content-box-inner, .course-list-item-inner {
   padding: 30px 40px 20px 40px;
-  background-color: #eee;
+  background-color: white;
   color: #333;
 }
-
-.content-box-inner span, .course-list-item-inner span {
-  font-size: 18px;
+.content-box-inner h1, .course-list-item-inner h1 {
+  margin-bottom: 20px;
 }
-
-@media (min-width: 992px) {
-  .content-box-inner span, .course-list-item-inner span {
-    line-height: 4;
-  }
+.content-box-inner span, .course-list-item-inner span {
+  display: block;
+  font-size: 18px;
+  margin-top: 20px;
+}
+.content-box-inner span:not(:last-child), .course-list-item-inner span:not(:last-child) {
+  margin-bottom: 20px;
+}
+.content-box-inner span:last-child, .course-list-item-inner span:last-child {
+  margin-bottom: 10px;
+}
+.content-box-inner ul, .course-list-item-inner ul {
+  margin-bottom: 10px;
 }
 .content-box-inner li, .course-list-item-inner li {
   margin-left: 24px;
@@ -9025,7 +9047,7 @@ a:visited {
 }
 
 .course-list-item-outer {
-  margin: 0;
+  margin: 0 0 40px 0;
   position: relative;
   width: 300px;
   height: 200px;
@@ -9060,12 +9082,14 @@ a:visited {
   left: 0;
 }
 
+.content-box-name,
 .course-list-item-name {
   font-size: 24px;
   font-weight: 200;
   margin-bottom: 15px;
 }
 
+.content-box-description,
 .course-list-item-description {
   font-weight: 400px;
   font-size: 14px;

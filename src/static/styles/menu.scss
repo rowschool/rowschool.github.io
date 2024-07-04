@@ -50,11 +50,10 @@
 
 .mobile-nav-container {
     width: 100%;
-    background-color: $backgroundColor;
+    background-color: white;
     color: $figureColor;
-    padding: 10px 0;
     margin-bottom: 25px;
-    box-shadow: 2px 2px 1px $figureColor;
+    border-bottom: 2px solid $figureColor;
 }
 
 .mobile-nav {
@@ -66,13 +65,16 @@
 
     .mobile-nav-item {
         display: inline;
+        margin: auto;
+        font-size: 0.8em;
 
         a {
             background: none;
             text-decoration: none;
             padding: 10px 15px;
-            text-align: center;
+            display: block;
             border-radius: 0px;
+            color: $figureColor;
 
             &:focus {
                 text-decoration: none;

@@ -19,7 +19,6 @@ body {
 // All header attrs in the app need their own custom styling.
 h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
-    // font-size: 1em;
     -webkit-margin-before: 0;
     -webkit-margin-after: 0;
 }
@@ -49,6 +48,20 @@ a {
     }
 }
 
+ol li {
+
+    line-height: 1.4;
+}
+
+ol li ul li {
+    margin-left: 12px;
+    list-style: none;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
 .text-center {
     text-align: center;
 }
@@ -61,7 +74,7 @@ a {
 
 .content-container {
     max-width: 75%;
-    margin: 0 auto 40px auto;
+    margin: 0 auto $defaultMarginBottom auto;
 }
 
 .content-text {
@@ -70,13 +83,6 @@ a {
     font-size: 18px;
     margin-bottom: 18px;
 }
-
-// .content-text-large {
-//     line-height: 1.2;
-//     display: block;
-//     font-size: 24px;
-//     margin-bottom: 18px;
-// }
 
 .header-text {
     text-align: center;
@@ -93,14 +99,14 @@ a {
 .header-text-description {
     font-size: 24px;
     font-weight: 200;
-    margin: 8px 0 40px 0;
+    margin: 8px 0 $defaultMarginBottom 0;
 }
 
 .page-header { // h1 usually
     font-size: 72px;
     text-align: center;
     font-weight: 200;
-    margin-bottom: 24px;
+    margin-bottom: $defaultMarginBottom;
 }
 
 .course-list {
@@ -111,34 +117,47 @@ a {
 .content-box-outer {
     background-color: $brandColorPrimary;
     padding: 5px;
-    margin: 20px 5px 40px 5px;
+    margin: 20px 5px $defaultMarginBottom 5px;
     box-shadow: 3px 3px $boxShadowColor;
 }
 
 .content-box-inner {
     padding: 30px 40px 20px 40px;
-    background-color: $backgroundColor;
+    background-color: white; // $backgroundColor;
     color: $textColor;
-}
 
-.content-box-inner span {
-    font-size: 18px;
-}
-
-@media (min-width: 992px) {
-    .content-box-inner span {
-        line-height: 4;
+    h1 {
+        margin-bottom: 20px;
     }
-}
 
-.content-box-inner li {
-    margin-left: 24px;
-    font-size: 18px;
+    span {
+        display: block;
+        font-size: 18px;
+        margin-top: 20px;
+        
+
+        &:not(:last-child) {
+            margin-bottom: 20px;
+        }
+
+        &:last-child {
+            margin-bottom: 10px;
+        }
+    }
+
+    ul {
+        margin-bottom: 10px;
+    }
+
+    li {
+        margin-left: 24px;
+        font-size: 18px;
+    }
 }
 
 .course-list-item-outer {
     @extend .content-box-outer;
-    margin: 0;
+    margin: 0 0 $defaultMarginBottom 0;
     position: relative;
     width: 300px;
     height: 200px;
@@ -166,11 +185,7 @@ a {
 
 .course-list-item-icon {
     font-size: 48px;
-
-    // &:before {
-        // content: "\f927";
-        content: '\F67E';
-    // }
+    content: '\F67E';
 }
 
 .course-list-item-inner-text {
@@ -180,12 +195,14 @@ a {
     left: 0;
 }
 
+.content-box-name,
 .course-list-item-name {
     font-size: 24px;
     font-weight: 200;
     margin-bottom: 15px;
 }
 
+.content-box-description,
 .course-list-item-description {
     font-weight: 400px;
     font-size: 14px;

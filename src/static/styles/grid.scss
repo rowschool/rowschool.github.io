@@ -13,6 +13,7 @@
       display: flex;
       flex-flow: row wrap;
       justify-content: space-around;
+      align-items: center;
 
       .even-column {
         padding: 5px;
@@ -20,10 +21,8 @@
         position: relative;
         box-sizing: border-box;
         flex: 1 0 evenColumnWidth($column, 100);
-      }
-
-      .even-column:nth-last-child(-n+#{$column}) + .even-column:nth-child(n+#{$column}) {
-        max-width: evenColumnWidth($column, 10000);
+        margin: 20px;
+        height: max-content;
       }
     }
   }
