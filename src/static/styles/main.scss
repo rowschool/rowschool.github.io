@@ -121,6 +121,16 @@ ol li ul li {
     box-shadow: 3px 3px $boxShadowColor;
 }
 
+@media (max-width: 991px) {
+    .even-columns-2, .even-columns-3 {
+        .even-column {
+            width: 100%;
+            margin: 10px;
+        }
+    }
+}
+
+
 .content-box-inner {
     padding: 30px 40px 20px 40px;
     background-color: white; // $backgroundColor;
