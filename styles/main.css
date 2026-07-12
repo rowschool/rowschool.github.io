@@ -9119,17 +9119,24 @@ ol li ul li {
   margin: 0 0 40px 0;
   position: relative;
   width: 300px;
-  height: 200px;
+  min-height: 200px;
+  overflow: hidden;
+}
+.course-list-item-outer a {
+  text-decoration: none;
 }
 
 .course-list-item-inner {
-  padding: 30px 10px 0px 10px;
+  padding: 24px 10px 20px 10px;
   cursor: pointer;
-  position: absolute;
-  top: 5px;
-  right: 5px;
-  bottom: 5px;
-  left: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  gap: 16px;
+  min-height: 190px;
+  box-sizing: border-box;
 }
 .course-list-item-inner:hover {
   background-color: #ddd;
@@ -9139,16 +9146,26 @@ ol li ul li {
   fill: inherit;
 }
 
-.course-list-item-icon {
-  font-size: 48px;
-  content: "\f67e";
+.course-list-item-inner > h1,
+.course-list-item-inner > svg {
+  width: 50px;
+  height: 50px;
+  flex: 0 0 50px;
+  margin: 0;
+  display: block;
+}
+
+.course-list-item-inner > h1 {
+  font-size: 52px;
+  line-height: 50px;
 }
 
 .course-list-item-inner-text {
-  position: absolute;
-  right: 0;
-  bottom: 30px;
-  left: 0;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .content-box-name,
@@ -9160,7 +9177,7 @@ ol li ul li {
 
 .content-box-description,
 .course-list-item-description {
-  font-weight: 400px;
+  font-weight: 400;
   font-size: 14px;
 }
 
