@@ -1,13 +1,21 @@
 // Desktop
-@media (min-width: 992px) {
+@media (min-width: $screen-desktop) {
     .visible-phone {
         display: none;
+    }
+
+    .hidden-phone {
+        display: block;
     }
 }
 
 // Mobile
-@media (max-width: 991px) {
+@media (max-width: $screen-desktop - 1px) {
     .hidden-phone {
         display: none;
+    }
+
+    .visible-phone {
+        display: block;
     }
 }

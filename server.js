@@ -16,18 +16,21 @@ var params = {
 // NOTE: If CSS doesn't build,
 // this will fail silently if you have typos in your SASS.
 // Run `npm run build-css` to test and the console will show an error if this is the case.
-// Sometimes, if build works but watch doesn't, you will have to run
-// `npm run watch-css` from the terminal manually. It should be ok then.
+// Watchers are launched in parallel by `npm run dev-build-and-watch`.
 
-childProcess.exec("npm run build-views && npm run build-css && npm run watch-views && npm run watch-css", {
-        "shell": true
-    },
-    (error, stdout, stderr) => {
-        console.log(`stdout: ${stdout}`);
-        console.log(`stderr: ${stderr}`);
-        if (error !== null) {
-            console.log(`exec error: ${error}`);
-        }
+var watcherProcess = childProcess.spawn("npm", ["run", "dev-build-and-watch"], {
+    shell: true,
+    stdio: "inherit"
+});
+
+watcherProcess.on("error", function(error) {
+    console.error(`watch process failed to start: ${error}`);
+});
+
+watcherProcess.on("exit", function(code, signal) {
+    if (code !== 0) {
+        console.error(`watch process exited with code ${code}${signal ? ` (signal: ${signal})` : ""}`);
+    }
 });
 
 liveServer.start(params);

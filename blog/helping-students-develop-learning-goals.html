@@ -49,13 +49,19 @@
 
   <body>
     <div class="visible-phone mobile-nav-container">
-      <ul class="mobile-nav">
-        <li class="mobile-nav-item"><a href="/">Home</a></li>
-        <li class="mobile-nav-item"><a href="/philosophy">Our Philosophy</a></li>
-        <li class="mobile-nav-item"><a href="/blog">Blog</a></li>
-        <li class="mobile-nav-item"><a href="/vision">Vision</a></li>
-        <li class="mobile-nav-item"><a href="/resources">Resources</a></li>
-      </ul>
+      <button id="mobile-menu-button" class="mobile-menu-button" type="button" aria-label="Toggle navigation menu" aria-controls="mobile-menu-dropdown" aria-expanded="false">
+        <span class="mobile-menu-button-line"></span>
+        <span class="mobile-menu-button-line"></span>
+        <span class="mobile-menu-button-line"></span>
+      </button>
+    
+      <div id="mobile-menu-dropdown" class="mobile-menu-dropdown" aria-hidden="true">
+        <a class="mobile-menu-dropdown-group-item" href="/">Home</a>
+        <a class="mobile-menu-dropdown-group-item" href="/philosophy">Our Philosophy</a>
+        <a class="mobile-menu-dropdown-group-item" href="/blog">Blog</a>
+        <a class="mobile-menu-dropdown-group-item" href="/vision">Vision</a>
+        <a class="mobile-menu-dropdown-group-item" href="/resources">Resources</a>
+      </div>
     </div>
     
     <div class="hidden-phone">
